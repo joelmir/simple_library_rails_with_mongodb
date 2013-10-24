@@ -1,4 +1,6 @@
 LibraryMongo::Application.routes.draw do
+  resources :writers
+
   resources :tests
 
   # The priority is based upon order of creation: first created -> highest priority.
