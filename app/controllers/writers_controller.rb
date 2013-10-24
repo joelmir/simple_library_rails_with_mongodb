@@ -4,7 +4,7 @@ class WritersController < ApplicationController
   # GET /writers
   # GET /writers.json
   def index
-    @writers = Writer.all
+    @writers = Writer.order_by(:line.asc).paginate(:page => params[:page], :limit => 15)
   end
 
   def sync

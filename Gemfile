@@ -37,6 +37,10 @@ require 'open-uri'
 # MongoDB
 gem 'mongoid', git: 'git://github.com/mongoid/mongoid.git'
 
+#Pagination Mongo
+gem 'mongoid-pagination'
+gem "will_paginate_mongoid"
+
 group :test do
   gem "rspec-rails"
   gem 'cucumber-rails', :require => false

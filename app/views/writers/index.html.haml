@@ -23,5 +23,5 @@
       %td= link_to 'Destroy', writer, :method => :delete, :data => { :confirm => 'Are you sure?' }
 
 %br
-
+= will_paginate @writers
 = link_to 'New Writer', new_writer_path
