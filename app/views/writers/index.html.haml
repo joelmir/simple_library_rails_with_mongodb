@@ -2,18 +2,22 @@
 
 %table
   %tr
+    %th Code
     %th Name
     %th Book
     %th Address
+    %th File line
     %th
     %th
     %th
 
   - @writers.each do |writer|
     %tr
+      %td= writer.code
       %td= writer.name
       %td= writer.book
       %td= writer.address
+      %td= writer.line
       %td= link_to 'Show', writer
       %td= link_to 'Edit', edit_writer_path(writer)
       %td= link_to 'Destroy', writer, :method => :delete, :data => { :confirm => 'Are you sure?' }

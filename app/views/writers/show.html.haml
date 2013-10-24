@@ -1,5 +1,7 @@
 %p#notice= notice
-
+%p
+  %b Code:
+  = @writer.code
 %p
   %b Name:
   = @writer.name
@@ -9,6 +11,9 @@
 %p
   %b Address:
   = @writer.address
+%p
+  %b File Line:
+  = @writer.line
 
 = link_to 'Edit', edit_writer_path(@writer)
 \|

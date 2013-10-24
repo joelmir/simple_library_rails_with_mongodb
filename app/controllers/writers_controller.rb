@@ -19,15 +19,17 @@ class WritersController < ApplicationController
       File.open(path_data, "r") do |f|    
         while (line = f.gets) and counter < 1000
           @w = Writer.create({:code => line[0..6] ,:book=> line[7..51].strip ,
-            :name=>line[52..80].strip ,:address=>line[81..86].strip})
-          counter = counter + 1
-
+            :name=>line[52..80].strip ,:address=>line[81..86].strip, :line=>counter})
+          
+          #Adiciona no xml
           xml.writer {
             xml.code_  @w.code
             xml.name_  @w.name
             xml.book_  @w.book
             xml.address_  @w.address
+            xml.line_ counter
           }
+          counter = counter + 1
         end
       end
     }
