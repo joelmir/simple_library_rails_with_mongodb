@@ -30,6 +30,10 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+#XML Manipulation
+require 'nokogiri'
+require 'open-uri'
+
 # MongoDB
 gem 'mongoid', git: 'git://github.com/mongoid/mongoid.git'
 

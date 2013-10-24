@@ -1,0 +1,5997 @@
+<?xml version="1.0"?>
+<writers>
+  <writer>
+    <code>1291906</code>
+    <name>Autor do livro 1291906</name>
+    <book>Titulo do livro 1291906</book>
+    <address>82011</address>
+  </writer>
+  <writer>
+    <code>3692064</code>
+    <name>Autor do livro 3692064</name>
+    <book>Titulo do livro 3692064</book>
+    <address>41999</address>
+  </writer>
+  <writer>
+    <code>1477128</code>
+    <name>Autor do livro 1477128</name>
+    <book>Titulo do livro 1477128</book>
+    <address>21967</address>
+  </writer>
+  <writer>
+    <code>1716001</code>
+    <name>Autor do livro 1716001</name>
+    <book>Titulo do livro 1716001</book>
+    <address>31894</address>
+  </writer>
+  <writer>
+    <code>1544304</code>
+    <name>Autor do livro 1544304</name>
+    <book>Titulo do livro 1544304</book>
+    <address>51977</address>
+  </writer>
+  <writer>
+    <code>3515373</code>
+    <name>Autor do livro 3515373</name>
+    <book>Titulo do livro 3515373</book>
+    <address>61985</address>
+  </writer>
+  <writer>
+    <code>2455190</code>
+    <name>Autor do livro 2455190</name>
+    <book>Titulo do livro 2455190</book>
+    <address>61909</address>
+  </writer>
+  <writer>
+    <code>1497972</code>
+    <name>Autor do livro 1497972</name>
+    <book>Titulo do livro 1497972</book>
+    <address>31930</address>
+  </writer>
+  <writer>
+    <code>2126037</code>
+    <name>Autor do livro 2126037</name>
+    <book>Titulo do livro 2126037</book>
+    <address>41966</address>
+  </writer>
+  <writer>
+    <code>3733885</code>
+    <name>Autor do livro 3733885</name>
+    <book>Titulo do livro 3733885</book>
+    <address>41929</address>
+  </writer>
+  <writer>
+    <code>3365905</code>
+    <name>Autor do livro 3365905</name>
+    <book>Titulo do livro 3365905</book>
+    <address>41905</address>
+  </writer>
+  <writer>
+    <code>3696840</code>
+    <name>Autor do livro 3696840</name>
+    <book>Titulo do livro 3696840</book>
+    <address>31947</address>
+  </writer>
+  <writer>
+    <code>3668940</code>
+    <name>Autor do livro 3668940</name>
+    <book>Titulo do livro 3668940</book>
+    <address>61899</address>
+  </writer>
+  <writer>
+    <code>2300062</code>
+    <name>Autor do livro 2300062</name>
+    <book>Titulo do livro 2300062</book>
+    <address>11958</address>
+  </writer>
+  <writer>
+    <code>2775466</code>
+    <name>Autor do livro 2775466</name>
+    <book>Titulo do livro 2775466</book>
+    <address>81981</address>
+  </writer>
+  <writer>
+    <code>2700432</code>
+    <name>Autor do livro 2700432</name>
+    <book>Titulo do livro 2700432</book>
+    <address>81926</address>
+  </writer>
+  <writer>
+    <code>2953412</code>
+    <name>Autor do livro 2953412</name>
+    <book>Titulo do livro 2953412</book>
+    <address>41922</address>
+  </writer>
+  <writer>
+    <code>3712932</code>
+    <name>Autor do livro 3712932</name>
+    <book>Titulo do livro 3712932</book>
+    <address>41980</address>
+  </writer>
+  <writer>
+    <code>1978763</code>
+    <name>Autor do livro 1978763</name>
+    <book>Titulo do livro 1978763</book>
+    <address>41942</address>
+  </writer>
+  <writer>
+    <code>1477290</code>
+    <name>Autor do livro 1477290</name>
+    <book>Titulo do livro 1477290</book>
+    <address>51921</address>
+  </writer>
+  <writer>
+    <code>2766189</code>
+    <name>Autor do livro 2766189</name>
+    <book>Titulo do livro 2766189</book>
+    <address>11952</address>
+  </writer>
+  <writer>
+    <code>1260879</code>
+    <name>Autor do livro 1260879</name>
+    <book>Titulo do livro 1260879</book>
+    <address>51996</address>
+  </writer>
+  <writer>
+    <code>1756091</code>
+    <name>Autor do livro 1756091</name>
+    <book>Titulo do livro 1756091</book>
+    <address>31899</address>
+  </writer>
+  <writer>
+    <code>3883481</code>
+    <name>Autor do livro 3883481</name>
+    <book>Titulo do livro 3883481</book>
+    <address>51951</address>
+  </writer>
+  <writer>
+    <code>1866848</code>
+    <name>Autor do livro 1866848</name>
+    <book>Titulo do livro 1866848</book>
+    <address>21980</address>
+  </writer>
+  <writer>
+    <code>1406602</code>
+    <name>Autor do livro 1406602</name>
+    <book>Titulo do livro 1406602</book>
+    <address>71955</address>
+  </writer>
+  <writer>
+    <code>2344060</code>
+    <name>Autor do livro 2344060</name>
+    <book>Titulo do livro 2344060</book>
+    <address>31997</address>
+  </writer>
+  <writer>
+    <code>1643837</code>
+    <name>Autor do livro 1643837</name>
+    <book>Titulo do livro 1643837</book>
+    <address>31892</address>
+  </writer>
+  <writer>
+    <code>2564589</code>
+    <name>Autor do livro 2564589</name>
+    <book>Titulo do livro 2564589</book>
+    <address>81963</address>
+  </writer>
+  <writer>
+    <code>3877964</code>
+    <name>Autor do livro 3877964</name>
+    <book>Titulo do livro 3877964</book>
+    <address>21954</address>
+  </writer>
+  <writer>
+    <code>3039614</code>
+    <name>Autor do livro 3039614</name>
+    <book>Titulo do livro 3039614</book>
+    <address>11963</address>
+  </writer>
+  <writer>
+    <code>1766276</code>
+    <name>Autor do livro 1766276</name>
+    <book>Titulo do livro 1766276</book>
+    <address>31900</address>
+  </writer>
+  <writer>
+    <code>2376474</code>
+    <name>Autor do livro 2376474</name>
+    <book>Titulo do livro 2376474</book>
+    <address>71930</address>
+  </writer>
+  <writer>
+    <code>3118996</code>
+    <name>Autor do livro 3118996</name>
+    <book>Titulo do livro 3118996</book>
+    <address>21918</address>
+  </writer>
+  <writer>
+    <code>2567357</code>
+    <name>Autor do livro 2567357</name>
+    <book>Titulo do livro 2567357</book>
+    <address>11941</address>
+  </writer>
+  <writer>
+    <code>1693005</code>
+    <name>Autor do livro 1693005</name>
+    <book>Titulo do livro 1693005</book>
+    <address>71922</address>
+  </writer>
+  <writer>
+    <code>2794461</code>
+    <name>Autor do livro 2794461</name>
+    <book>Titulo do livro 2794461</book>
+    <address>81945</address>
+  </writer>
+  <writer>
+    <code>1871142</code>
+    <name>Autor do livro 1871142</name>
+    <book>Titulo do livro 1871142</book>
+    <address>41940</address>
+  </writer>
+  <writer>
+    <code>3679025</code>
+    <name>Autor do livro 3679025</name>
+    <book>Titulo do livro 3679025</book>
+    <address>11933</address>
+  </writer>
+  <writer>
+    <code>2869106</code>
+    <name>Autor do livro 2869106</name>
+    <book>Titulo do livro 2869106</book>
+    <address>61905</address>
+  </writer>
+  <writer>
+    <code>3324773</code>
+    <name>Autor do livro 3324773</name>
+    <book>Titulo do livro 3324773</book>
+    <address>31930</address>
+  </writer>
+  <writer>
+    <code>1540686</code>
+    <name>Autor do livro 1540686</name>
+    <book>Titulo do livro 1540686</book>
+    <address>81944</address>
+  </writer>
+  <writer>
+    <code>1156547</code>
+    <name>Autor do livro 1156547</name>
+    <book>Titulo do livro 1156547</book>
+    <address>21910</address>
+  </writer>
+  <writer>
+    <code>3810311</code>
+    <name>Autor do livro 3810311</name>
+    <book>Titulo do livro 3810311</book>
+    <address>51957</address>
+  </writer>
+  <writer>
+    <code>2585775</code>
+    <name>Autor do livro 2585775</name>
+    <book>Titulo do livro 2585775</book>
+    <address>51931</address>
+  </writer>
+  <writer>
+    <code>3781727</code>
+    <name>Autor do livro 3781727</name>
+    <book>Titulo do livro 3781727</book>
+    <address>21892</address>
+  </writer>
+  <writer>
+    <code>2998294</code>
+    <name>Autor do livro 2998294</name>
+    <book>Titulo do livro 2998294</book>
+    <address>81995</address>
+  </writer>
+  <writer>
+    <code>1068818</code>
+    <name>Autor do livro 1068818</name>
+    <book>Titulo do livro 1068818</book>
+    <address>71985</address>
+  </writer>
+  <writer>
+    <code>3688241</code>
+    <name>Autor do livro 3688241</name>
+    <book>Titulo do livro 3688241</book>
+    <address>82011</address>
+  </writer>
+  <writer>
+    <code>1307408</code>
+    <name>Autor do livro 1307408</name>
+    <book>Titulo do livro 1307408</book>
+    <address>61928</address>
+  </writer>
+  <writer>
+    <code>2940043</code>
+    <name>Autor do livro 2940043</name>
+    <book>Titulo do livro 2940043</book>
+    <address>11910</address>
+  </writer>
+  <writer>
+    <code>2998651</code>
+    <name>Autor do livro 2998651</name>
+    <book>Titulo do livro 2998651</book>
+    <address>61946</address>
+  </writer>
+  <writer>
+    <code>2087312</code>
+    <name>Autor do livro 2087312</name>
+    <book>Titulo do livro 2087312</book>
+    <address>41956</address>
+  </writer>
+  <writer>
+    <code>1507452</code>
+    <name>Autor do livro 1507452</name>
+    <book>Titulo do livro 1507452</book>
+    <address>11929</address>
+  </writer>
+  <writer>
+    <code>3115877</code>
+    <name>Autor do livro 3115877</name>
+    <book>Titulo do livro 3115877</book>
+    <address>81994</address>
+  </writer>
+  <writer>
+    <code>2746968</code>
+    <name>Autor do livro 2746968</name>
+    <book>Titulo do livro 2746968</book>
+    <address>32010</address>
+  </writer>
+  <writer>
+    <code>1793803</code>
+    <name>Autor do livro 1793803</name>
+    <book>Titulo do livro 1793803</book>
+    <address>61962</address>
+  </writer>
+  <writer>
+    <code>1775847</code>
+    <name>Autor do livro 1775847</name>
+    <book>Titulo do livro 1775847</book>
+    <address>21997</address>
+  </writer>
+  <writer>
+    <code>3509720</code>
+    <name>Autor do livro 3509720</name>
+    <book>Titulo do livro 3509720</book>
+    <address>21976</address>
+  </writer>
+  <writer>
+    <code>3822556</code>
+    <name>Autor do livro 3822556</name>
+    <book>Titulo do livro 3822556</book>
+    <address>21940</address>
+  </writer>
+  <writer>
+    <code>1132987</code>
+    <name>Autor do livro 1132987</name>
+    <book>Titulo do livro 1132987</book>
+    <address>61945</address>
+  </writer>
+  <writer>
+    <code>1947223</code>
+    <name>Autor do livro 1947223</name>
+    <book>Titulo do livro 1947223</book>
+    <address>82004</address>
+  </writer>
+  <writer>
+    <code>3617673</code>
+    <name>Autor do livro 3617673</name>
+    <book>Titulo do livro 3617673</book>
+    <address>41988</address>
+  </writer>
+  <writer>
+    <code>3994696</code>
+    <name>Autor do livro 3994696</name>
+    <book>Titulo do livro 3994696</book>
+    <address>61943</address>
+  </writer>
+  <writer>
+    <code>1970480</code>
+    <name>Autor do livro 1970480</name>
+    <book>Titulo do livro 1970480</book>
+    <address>41988</address>
+  </writer>
+  <writer>
+    <code>2431831</code>
+    <name>Autor do livro 2431831</name>
+    <book>Titulo do livro 2431831</book>
+    <address>51928</address>
+  </writer>
+  <writer>
+    <code>1389392</code>
+    <name>Autor do livro 1389392</name>
+    <book>Titulo do livro 1389392</book>
+    <address>21968</address>
+  </writer>
+  <writer>
+    <code>3254953</code>
+    <name>Autor do livro 3254953</name>
+    <book>Titulo do livro 3254953</book>
+    <address>11910</address>
+  </writer>
+  <writer>
+    <code>1072102</code>
+    <name>Autor do livro 1072102</name>
+    <book>Titulo do livro 1072102</book>
+    <address>22010</address>
+  </writer>
+  <writer>
+    <code>3999649</code>
+    <name>Autor do livro 3999649</name>
+    <book>Titulo do livro 3999649</book>
+    <address>72002</address>
+  </writer>
+  <writer>
+    <code>1575930</code>
+    <name>Autor do livro 1575930</name>
+    <book>Titulo do livro 1575930</book>
+    <address>81999</address>
+  </writer>
+  <writer>
+    <code>1842507</code>
+    <name>Autor do livro 1842507</name>
+    <book>Titulo do livro 1842507</book>
+    <address>71913</address>
+  </writer>
+  <writer>
+    <code>1498530</code>
+    <name>Autor do livro 1498530</name>
+    <book>Titulo do livro 1498530</book>
+    <address>62003</address>
+  </writer>
+  <writer>
+    <code>1138866</code>
+    <name>Autor do livro 1138866</name>
+    <book>Titulo do livro 1138866</book>
+    <address>41955</address>
+  </writer>
+  <writer>
+    <code>2327026</code>
+    <name>Autor do livro 2327026</name>
+    <book>Titulo do livro 2327026</book>
+    <address>62012</address>
+  </writer>
+  <writer>
+    <code>3842191</code>
+    <name>Autor do livro 3842191</name>
+    <book>Titulo do livro 3842191</book>
+    <address>81979</address>
+  </writer>
+  <writer>
+    <code>3917520</code>
+    <name>Autor do livro 3917520</name>
+    <book>Titulo do livro 3917520</book>
+    <address>41927</address>
+  </writer>
+  <writer>
+    <code>1724452</code>
+    <name>Autor do livro 1724452</name>
+    <book>Titulo do livro 1724452</book>
+    <address>81958</address>
+  </writer>
+  <writer>
+    <code>3774977</code>
+    <name>Autor do livro 3774977</name>
+    <book>Titulo do livro 3774977</book>
+    <address>71979</address>
+  </writer>
+  <writer>
+    <code>1992567</code>
+    <name>Autor do livro 1992567</name>
+    <book>Titulo do livro 1992567</book>
+    <address>82000</address>
+  </writer>
+  <writer>
+    <code>2052009</code>
+    <name>Autor do livro 2052009</name>
+    <book>Titulo do livro 2052009</book>
+    <address>21961</address>
+  </writer>
+  <writer>
+    <code>1054218</code>
+    <name>Autor do livro 1054218</name>
+    <book>Titulo do livro 1054218</book>
+    <address>82003</address>
+  </writer>
+  <writer>
+    <code>2417688</code>
+    <name>Autor do livro 2417688</name>
+    <book>Titulo do livro 2417688</book>
+    <address>61902</address>
+  </writer>
+  <writer>
+    <code>3305268</code>
+    <name>Autor do livro 3305268</name>
+    <book>Titulo do livro 3305268</book>
+    <address>61952</address>
+  </writer>
+  <writer>
+    <code>2218917</code>
+    <name>Autor do livro 2218917</name>
+    <book>Titulo do livro 2218917</book>
+    <address>21895</address>
+  </writer>
+  <writer>
+    <code>2329145</code>
+    <name>Autor do livro 2329145</name>
+    <book>Titulo do livro 2329145</book>
+    <address>31953</address>
+  </writer>
+  <writer>
+    <code>2010822</code>
+    <name>Autor do livro 2010822</name>
+    <book>Titulo do livro 2010822</book>
+    <address>71929</address>
+  </writer>
+  <writer>
+    <code>1866241</code>
+    <name>Autor do livro 1866241</name>
+    <book>Titulo do livro 1866241</book>
+    <address>51955</address>
+  </writer>
+  <writer>
+    <code>3357110</code>
+    <name>Autor do livro 3357110</name>
+    <book>Titulo do livro 3357110</book>
+    <address>31900</address>
+  </writer>
+  <writer>
+    <code>2484901</code>
+    <name>Autor do livro 2484901</name>
+    <book>Titulo do livro 2484901</book>
+    <address>41899</address>
+  </writer>
+  <writer>
+    <code>3556736</code>
+    <name>Autor do livro 3556736</name>
+    <book>Titulo do livro 3556736</book>
+    <address>42009</address>
+  </writer>
+  <writer>
+    <code>1052459</code>
+    <name>Autor do livro 1052459</name>
+    <book>Titulo do livro 1052459</book>
+    <address>71986</address>
+  </writer>
+  <writer>
+    <code>3049481</code>
+    <name>Autor do livro 3049481</name>
+    <book>Titulo do livro 3049481</book>
+    <address>22001</address>
+  </writer>
+  <writer>
+    <code>2680907</code>
+    <name>Autor do livro 2680907</name>
+    <book>Titulo do livro 2680907</book>
+    <address>11971</address>
+  </writer>
+  <writer>
+    <code>1834657</code>
+    <name>Autor do livro 1834657</name>
+    <book>Titulo do livro 1834657</book>
+    <address>21939</address>
+  </writer>
+  <writer>
+    <code>1945927</code>
+    <name>Autor do livro 1945927</name>
+    <book>Titulo do livro 1945927</book>
+    <address>11911</address>
+  </writer>
+  <writer>
+    <code>3350965</code>
+    <name>Autor do livro 3350965</name>
+    <book>Titulo do livro 3350965</book>
+    <address>11907</address>
+  </writer>
+  <writer>
+    <code>2149707</code>
+    <name>Autor do livro 2149707</name>
+    <book>Titulo do livro 2149707</book>
+    <address>21968</address>
+  </writer>
+  <writer>
+    <code>2416122</code>
+    <name>Autor do livro 2416122</name>
+    <book>Titulo do livro 2416122</book>
+    <address>71999</address>
+  </writer>
+  <writer>
+    <code>1941118</code>
+    <name>Autor do livro 1941118</name>
+    <book>Titulo do livro 1941118</book>
+    <address>81910</address>
+  </writer>
+  <writer>
+    <code>1450169</code>
+    <name>Autor do livro 1450169</name>
+    <book>Titulo do livro 1450169</book>
+    <address>21934</address>
+  </writer>
+  <writer>
+    <code>1068725</code>
+    <name>Autor do livro 1068725</name>
+    <book>Titulo do livro 1068725</book>
+    <address>21967</address>
+  </writer>
+  <writer>
+    <code>1926190</code>
+    <name>Autor do livro 1926190</name>
+    <book>Titulo do livro 1926190</book>
+    <address>11958</address>
+  </writer>
+  <writer>
+    <code>1138597</code>
+    <name>Autor do livro 1138597</name>
+    <book>Titulo do livro 1138597</book>
+    <address>21900</address>
+  </writer>
+  <writer>
+    <code>2224751</code>
+    <name>Autor do livro 2224751</name>
+    <book>Titulo do livro 2224751</book>
+    <address>71964</address>
+  </writer>
+  <writer>
+    <code>1156288</code>
+    <name>Autor do livro 1156288</name>
+    <book>Titulo do livro 1156288</book>
+    <address>41988</address>
+  </writer>
+  <writer>
+    <code>3510607</code>
+    <name>Autor do livro 3510607</name>
+    <book>Titulo do livro 3510607</book>
+    <address>62004</address>
+  </writer>
+  <writer>
+    <code>2173191</code>
+    <name>Autor do livro 2173191</name>
+    <book>Titulo do livro 2173191</book>
+    <address>21949</address>
+  </writer>
+  <writer>
+    <code>2732910</code>
+    <name>Autor do livro 2732910</name>
+    <book>Titulo do livro 2732910</book>
+    <address>51906</address>
+  </writer>
+  <writer>
+    <code>3547193</code>
+    <name>Autor do livro 3547193</name>
+    <book>Titulo do livro 3547193</book>
+    <address>12009</address>
+  </writer>
+  <writer>
+    <code>3620339</code>
+    <name>Autor do livro 3620339</name>
+    <book>Titulo do livro 3620339</book>
+    <address>61895</address>
+  </writer>
+  <writer>
+    <code>2834754</code>
+    <name>Autor do livro 2834754</name>
+    <book>Titulo do livro 2834754</book>
+    <address>71921</address>
+  </writer>
+  <writer>
+    <code>2278654</code>
+    <name>Autor do livro 2278654</name>
+    <book>Titulo do livro 2278654</book>
+    <address>31912</address>
+  </writer>
+  <writer>
+    <code>2034334</code>
+    <name>Autor do livro 2034334</name>
+    <book>Titulo do livro 2034334</book>
+    <address>21953</address>
+  </writer>
+  <writer>
+    <code>1638417</code>
+    <name>Autor do livro 1638417</name>
+    <book>Titulo do livro 1638417</book>
+    <address>21982</address>
+  </writer>
+  <writer>
+    <code>2037146</code>
+    <name>Autor do livro 2037146</name>
+    <book>Titulo do livro 2037146</book>
+    <address>71994</address>
+  </writer>
+  <writer>
+    <code>2499431</code>
+    <name>Autor do livro 2499431</name>
+    <book>Titulo do livro 2499431</book>
+    <address>11922</address>
+  </writer>
+  <writer>
+    <code>1267085</code>
+    <name>Autor do livro 1267085</name>
+    <book>Titulo do livro 1267085</book>
+    <address>21916</address>
+  </writer>
+  <writer>
+    <code>2817689</code>
+    <name>Autor do livro 2817689</name>
+    <book>Titulo do livro 2817689</book>
+    <address>71899</address>
+  </writer>
+  <writer>
+    <code>3484106</code>
+    <name>Autor do livro 3484106</name>
+    <book>Titulo do livro 3484106</book>
+    <address>12010</address>
+  </writer>
+  <writer>
+    <code>1325031</code>
+    <name>Autor do livro 1325031</name>
+    <book>Titulo do livro 1325031</book>
+    <address>62004</address>
+  </writer>
+  <writer>
+    <code>3945931</code>
+    <name>Autor do livro 3945931</name>
+    <book>Titulo do livro 3945931</book>
+    <address>11897</address>
+  </writer>
+  <writer>
+    <code>2571283</code>
+    <name>Autor do livro 2571283</name>
+    <book>Titulo do livro 2571283</book>
+    <address>81957</address>
+  </writer>
+  <writer>
+    <code>1883197</code>
+    <name>Autor do livro 1883197</name>
+    <book>Titulo do livro 1883197</book>
+    <address>41971</address>
+  </writer>
+  <writer>
+    <code>3662212</code>
+    <name>Autor do livro 3662212</name>
+    <book>Titulo do livro 3662212</book>
+    <address>31903</address>
+  </writer>
+  <writer>
+    <code>2448791</code>
+    <name>Autor do livro 2448791</name>
+    <book>Titulo do livro 2448791</book>
+    <address>51999</address>
+  </writer>
+  <writer>
+    <code>1005288</code>
+    <name>Autor do livro 1005288</name>
+    <book>Titulo do livro 1005288</book>
+    <address>21938</address>
+  </writer>
+  <writer>
+    <code>3205048</code>
+    <name>Autor do livro 3205048</name>
+    <book>Titulo do livro 3205048</book>
+    <address>71894</address>
+  </writer>
+  <writer>
+    <code>1575309</code>
+    <name>Autor do livro 1575309</name>
+    <book>Titulo do livro 1575309</book>
+    <address>51992</address>
+  </writer>
+  <writer>
+    <code>2225755</code>
+    <name>Autor do livro 2225755</name>
+    <book>Titulo do livro 2225755</book>
+    <address>31913</address>
+  </writer>
+  <writer>
+    <code>1448352</code>
+    <name>Autor do livro 1448352</name>
+    <book>Titulo do livro 1448352</book>
+    <address>61969</address>
+  </writer>
+  <writer>
+    <code>2899359</code>
+    <name>Autor do livro 2899359</name>
+    <book>Titulo do livro 2899359</book>
+    <address>12004</address>
+  </writer>
+  <writer>
+    <code>3233546</code>
+    <name>Autor do livro 3233546</name>
+    <book>Titulo do livro 3233546</book>
+    <address>41917</address>
+  </writer>
+  <writer>
+    <code>1378531</code>
+    <name>Autor do livro 1378531</name>
+    <book>Titulo do livro 1378531</book>
+    <address>42001</address>
+  </writer>
+  <writer>
+    <code>3040611</code>
+    <name>Autor do livro 3040611</name>
+    <book>Titulo do livro 3040611</book>
+    <address>71944</address>
+  </writer>
+  <writer>
+    <code>2921201</code>
+    <name>Autor do livro 2921201</name>
+    <book>Titulo do livro 2921201</book>
+    <address>71944</address>
+  </writer>
+  <writer>
+    <code>2471830</code>
+    <name>Autor do livro 2471830</name>
+    <book>Titulo do livro 2471830</book>
+    <address>31934</address>
+  </writer>
+  <writer>
+    <code>1611610</code>
+    <name>Autor do livro 1611610</name>
+    <book>Titulo do livro 1611610</book>
+    <address>51969</address>
+  </writer>
+  <writer>
+    <code>1377299</code>
+    <name>Autor do livro 1377299</name>
+    <book>Titulo do livro 1377299</book>
+    <address>51906</address>
+  </writer>
+  <writer>
+    <code>3626266</code>
+    <name>Autor do livro 3626266</name>
+    <book>Titulo do livro 3626266</book>
+    <address>11981</address>
+  </writer>
+  <writer>
+    <code>1308793</code>
+    <name>Autor do livro 1308793</name>
+    <book>Titulo do livro 1308793</book>
+    <address>61931</address>
+  </writer>
+  <writer>
+    <code>2032238</code>
+    <name>Autor do livro 2032238</name>
+    <book>Titulo do livro 2032238</book>
+    <address>71960</address>
+  </writer>
+  <writer>
+    <code>3747083</code>
+    <name>Autor do livro 3747083</name>
+    <book>Titulo do livro 3747083</book>
+    <address>11906</address>
+  </writer>
+  <writer>
+    <code>2257127</code>
+    <name>Autor do livro 2257127</name>
+    <book>Titulo do livro 2257127</book>
+    <address>71987</address>
+  </writer>
+  <writer>
+    <code>3181597</code>
+    <name>Autor do livro 3181597</name>
+    <book>Titulo do livro 3181597</book>
+    <address>11967</address>
+  </writer>
+  <writer>
+    <code>3379504</code>
+    <name>Autor do livro 3379504</name>
+    <book>Titulo do livro 3379504</book>
+    <address>52009</address>
+  </writer>
+  <writer>
+    <code>2252325</code>
+    <name>Autor do livro 2252325</name>
+    <book>Titulo do livro 2252325</book>
+    <address>81907</address>
+  </writer>
+  <writer>
+    <code>2749193</code>
+    <name>Autor do livro 2749193</name>
+    <book>Titulo do livro 2749193</book>
+    <address>51919</address>
+  </writer>
+  <writer>
+    <code>1700247</code>
+    <name>Autor do livro 1700247</name>
+    <book>Titulo do livro 1700247</book>
+    <address>31984</address>
+  </writer>
+  <writer>
+    <code>1108512</code>
+    <name>Autor do livro 1108512</name>
+    <book>Titulo do livro 1108512</book>
+    <address>51907</address>
+  </writer>
+  <writer>
+    <code>2902492</code>
+    <name>Autor do livro 2902492</name>
+    <book>Titulo do livro 2902492</book>
+    <address>51993</address>
+  </writer>
+  <writer>
+    <code>2656476</code>
+    <name>Autor do livro 2656476</name>
+    <book>Titulo do livro 2656476</book>
+    <address>72005</address>
+  </writer>
+  <writer>
+    <code>2717526</code>
+    <name>Autor do livro 2717526</name>
+    <book>Titulo do livro 2717526</book>
+    <address>41968</address>
+  </writer>
+  <writer>
+    <code>1124011</code>
+    <name>Autor do livro 1124011</name>
+    <book>Titulo do livro 1124011</book>
+    <address>82003</address>
+  </writer>
+  <writer>
+    <code>1213146</code>
+    <name>Autor do livro 1213146</name>
+    <book>Titulo do livro 1213146</book>
+    <address>71988</address>
+  </writer>
+  <writer>
+    <code>2551878</code>
+    <name>Autor do livro 2551878</name>
+    <book>Titulo do livro 2551878</book>
+    <address>31971</address>
+  </writer>
+  <writer>
+    <code>1013838</code>
+    <name>Autor do livro 1013838</name>
+    <book>Titulo do livro 1013838</book>
+    <address>11974</address>
+  </writer>
+  <writer>
+    <code>1280944</code>
+    <name>Autor do livro 1280944</name>
+    <book>Titulo do livro 1280944</book>
+    <address>81897</address>
+  </writer>
+  <writer>
+    <code>1276010</code>
+    <name>Autor do livro 1276010</name>
+    <book>Titulo do livro 1276010</book>
+    <address>32011</address>
+  </writer>
+  <writer>
+    <code>2240935</code>
+    <name>Autor do livro 2240935</name>
+    <book>Titulo do livro 2240935</book>
+    <address>61990</address>
+  </writer>
+  <writer>
+    <code>3937192</code>
+    <name>Autor do livro 3937192</name>
+    <book>Titulo do livro 3937192</book>
+    <address>31993</address>
+  </writer>
+  <writer>
+    <code>2275802</code>
+    <name>Autor do livro 2275802</name>
+    <book>Titulo do livro 2275802</book>
+    <address>11944</address>
+  </writer>
+  <writer>
+    <code>2889262</code>
+    <name>Autor do livro 2889262</name>
+    <book>Titulo do livro 2889262</book>
+    <address>61940</address>
+  </writer>
+  <writer>
+    <code>2685625</code>
+    <name>Autor do livro 2685625</name>
+    <book>Titulo do livro 2685625</book>
+    <address>51904</address>
+  </writer>
+  <writer>
+    <code>2153250</code>
+    <name>Autor do livro 2153250</name>
+    <book>Titulo do livro 2153250</book>
+    <address>21928</address>
+  </writer>
+  <writer>
+    <code>2948047</code>
+    <name>Autor do livro 2948047</name>
+    <book>Titulo do livro 2948047</book>
+    <address>71903</address>
+  </writer>
+  <writer>
+    <code>3175118</code>
+    <name>Autor do livro 3175118</name>
+    <book>Titulo do livro 3175118</book>
+    <address>81983</address>
+  </writer>
+  <writer>
+    <code>1638023</code>
+    <name>Autor do livro 1638023</name>
+    <book>Titulo do livro 1638023</book>
+    <address>21970</address>
+  </writer>
+  <writer>
+    <code>1541475</code>
+    <name>Autor do livro 1541475</name>
+    <book>Titulo do livro 1541475</book>
+    <address>41960</address>
+  </writer>
+  <writer>
+    <code>2819402</code>
+    <name>Autor do livro 2819402</name>
+    <book>Titulo do livro 2819402</book>
+    <address>31922</address>
+  </writer>
+  <writer>
+    <code>2975625</code>
+    <name>Autor do livro 2975625</name>
+    <book>Titulo do livro 2975625</book>
+    <address>41916</address>
+  </writer>
+  <writer>
+    <code>1049313</code>
+    <name>Autor do livro 1049313</name>
+    <book>Titulo do livro 1049313</book>
+    <address>11942</address>
+  </writer>
+  <writer>
+    <code>1382437</code>
+    <name>Autor do livro 1382437</name>
+    <book>Titulo do livro 1382437</book>
+    <address>31991</address>
+  </writer>
+  <writer>
+    <code>2815675</code>
+    <name>Autor do livro 2815675</name>
+    <book>Titulo do livro 2815675</book>
+    <address>51963</address>
+  </writer>
+  <writer>
+    <code>1603838</code>
+    <name>Autor do livro 1603838</name>
+    <book>Titulo do livro 1603838</book>
+    <address>31898</address>
+  </writer>
+  <writer>
+    <code>2488617</code>
+    <name>Autor do livro 2488617</name>
+    <book>Titulo do livro 2488617</book>
+    <address>81893</address>
+  </writer>
+  <writer>
+    <code>2469859</code>
+    <name>Autor do livro 2469859</name>
+    <book>Titulo do livro 2469859</book>
+    <address>81962</address>
+  </writer>
+  <writer>
+    <code>3083756</code>
+    <name>Autor do livro 3083756</name>
+    <book>Titulo do livro 3083756</book>
+    <address>11899</address>
+  </writer>
+  <writer>
+    <code>3367966</code>
+    <name>Autor do livro 3367966</name>
+    <book>Titulo do livro 3367966</book>
+    <address>41921</address>
+  </writer>
+  <writer>
+    <code>2134144</code>
+    <name>Autor do livro 2134144</name>
+    <book>Titulo do livro 2134144</book>
+    <address>31922</address>
+  </writer>
+  <writer>
+    <code>3593342</code>
+    <name>Autor do livro 3593342</name>
+    <book>Titulo do livro 3593342</book>
+    <address>81923</address>
+  </writer>
+  <writer>
+    <code>3755302</code>
+    <name>Autor do livro 3755302</name>
+    <book>Titulo do livro 3755302</book>
+    <address>61996</address>
+  </writer>
+  <writer>
+    <code>2280827</code>
+    <name>Autor do livro 2280827</name>
+    <book>Titulo do livro 2280827</book>
+    <address>61969</address>
+  </writer>
+  <writer>
+    <code>2958264</code>
+    <name>Autor do livro 2958264</name>
+    <book>Titulo do livro 2958264</book>
+    <address>61961</address>
+  </writer>
+  <writer>
+    <code>1082899</code>
+    <name>Autor do livro 1082899</name>
+    <book>Titulo do livro 1082899</book>
+    <address>11994</address>
+  </writer>
+  <writer>
+    <code>3958385</code>
+    <name>Autor do livro 3958385</name>
+    <book>Titulo do livro 3958385</book>
+    <address>31998</address>
+  </writer>
+  <writer>
+    <code>2479010</code>
+    <name>Autor do livro 2479010</name>
+    <book>Titulo do livro 2479010</book>
+    <address>81892</address>
+  </writer>
+  <writer>
+    <code>1528271</code>
+    <name>Autor do livro 1528271</name>
+    <book>Titulo do livro 1528271</book>
+    <address>41995</address>
+  </writer>
+  <writer>
+    <code>3606436</code>
+    <name>Autor do livro 3606436</name>
+    <book>Titulo do livro 3606436</book>
+    <address>61905</address>
+  </writer>
+  <writer>
+    <code>1003017</code>
+    <name>Autor do livro 1003017</name>
+    <book>Titulo do livro 1003017</book>
+    <address>61987</address>
+  </writer>
+  <writer>
+    <code>2851658</code>
+    <name>Autor do livro 2851658</name>
+    <book>Titulo do livro 2851658</book>
+    <address>71904</address>
+  </writer>
+  <writer>
+    <code>2952072</code>
+    <name>Autor do livro 2952072</name>
+    <book>Titulo do livro 2952072</book>
+    <address>31924</address>
+  </writer>
+  <writer>
+    <code>1039726</code>
+    <name>Autor do livro 1039726</name>
+    <book>Titulo do livro 1039726</book>
+    <address>81957</address>
+  </writer>
+  <writer>
+    <code>1731087</code>
+    <name>Autor do livro 1731087</name>
+    <book>Titulo do livro 1731087</book>
+    <address>71916</address>
+  </writer>
+  <writer>
+    <code>1353150</code>
+    <name>Autor do livro 1353150</name>
+    <book>Titulo do livro 1353150</book>
+    <address>31996</address>
+  </writer>
+  <writer>
+    <code>2810738</code>
+    <name>Autor do livro 2810738</name>
+    <book>Titulo do livro 2810738</book>
+    <address>81961</address>
+  </writer>
+  <writer>
+    <code>1844852</code>
+    <name>Autor do livro 1844852</name>
+    <book>Titulo do livro 1844852</book>
+    <address>21994</address>
+  </writer>
+  <writer>
+    <code>2454037</code>
+    <name>Autor do livro 2454037</name>
+    <book>Titulo do livro 2454037</book>
+    <address>81922</address>
+  </writer>
+  <writer>
+    <code>1726902</code>
+    <name>Autor do livro 1726902</name>
+    <book>Titulo do livro 1726902</book>
+    <address>31951</address>
+  </writer>
+  <writer>
+    <code>3425514</code>
+    <name>Autor do livro 3425514</name>
+    <book>Titulo do livro 3425514</book>
+    <address>41921</address>
+  </writer>
+  <writer>
+    <code>2844523</code>
+    <name>Autor do livro 2844523</name>
+    <book>Titulo do livro 2844523</book>
+    <address>61942</address>
+  </writer>
+  <writer>
+    <code>1264006</code>
+    <name>Autor do livro 1264006</name>
+    <book>Titulo do livro 1264006</book>
+    <address>21923</address>
+  </writer>
+  <writer>
+    <code>3237005</code>
+    <name>Autor do livro 3237005</name>
+    <book>Titulo do livro 3237005</book>
+    <address>31894</address>
+  </writer>
+  <writer>
+    <code>2680968</code>
+    <name>Autor do livro 2680968</name>
+    <book>Titulo do livro 2680968</book>
+    <address>11993</address>
+  </writer>
+  <writer>
+    <code>1676802</code>
+    <name>Autor do livro 1676802</name>
+    <book>Titulo do livro 1676802</book>
+    <address>31982</address>
+  </writer>
+  <writer>
+    <code>3030241</code>
+    <name>Autor do livro 3030241</name>
+    <book>Titulo do livro 3030241</book>
+    <address>81996</address>
+  </writer>
+  <writer>
+    <code>2452772</code>
+    <name>Autor do livro 2452772</name>
+    <book>Titulo do livro 2452772</book>
+    <address>11911</address>
+  </writer>
+  <writer>
+    <code>1903475</code>
+    <name>Autor do livro 1903475</name>
+    <book>Titulo do livro 1903475</book>
+    <address>71975</address>
+  </writer>
+  <writer>
+    <code>2780626</code>
+    <name>Autor do livro 2780626</name>
+    <book>Titulo do livro 2780626</book>
+    <address>61963</address>
+  </writer>
+  <writer>
+    <code>3976365</code>
+    <name>Autor do livro 3976365</name>
+    <book>Titulo do livro 3976365</book>
+    <address>11915</address>
+  </writer>
+  <writer>
+    <code>3589289</code>
+    <name>Autor do livro 3589289</name>
+    <book>Titulo do livro 3589289</book>
+    <address>81979</address>
+  </writer>
+  <writer>
+    <code>2412266</code>
+    <name>Autor do livro 2412266</name>
+    <book>Titulo do livro 2412266</book>
+    <address>71922</address>
+  </writer>
+  <writer>
+    <code>1264158</code>
+    <name>Autor do livro 1264158</name>
+    <book>Titulo do livro 1264158</book>
+    <address>11986</address>
+  </writer>
+  <writer>
+    <code>1174169</code>
+    <name>Autor do livro 1174169</name>
+    <book>Titulo do livro 1174169</book>
+    <address>11935</address>
+  </writer>
+  <writer>
+    <code>2017287</code>
+    <name>Autor do livro 2017287</name>
+    <book>Titulo do livro 2017287</book>
+    <address>51968</address>
+  </writer>
+  <writer>
+    <code>2248357</code>
+    <name>Autor do livro 2248357</name>
+    <book>Titulo do livro 2248357</book>
+    <address>81987</address>
+  </writer>
+  <writer>
+    <code>2364061</code>
+    <name>Autor do livro 2364061</name>
+    <book>Titulo do livro 2364061</book>
+    <address>31893</address>
+  </writer>
+  <writer>
+    <code>1104458</code>
+    <name>Autor do livro 1104458</name>
+    <book>Titulo do livro 1104458</book>
+    <address>31989</address>
+  </writer>
+  <writer>
+    <code>3960440</code>
+    <name>Autor do livro 3960440</name>
+    <book>Titulo do livro 3960440</book>
+    <address>11923</address>
+  </writer>
+  <writer>
+    <code>2981825</code>
+    <name>Autor do livro 2981825</name>
+    <book>Titulo do livro 2981825</book>
+    <address>71956</address>
+  </writer>
+  <writer>
+    <code>2824539</code>
+    <name>Autor do livro 2824539</name>
+    <book>Titulo do livro 2824539</book>
+    <address>61946</address>
+  </writer>
+  <writer>
+    <code>1713860</code>
+    <name>Autor do livro 1713860</name>
+    <book>Titulo do livro 1713860</book>
+    <address>21952</address>
+  </writer>
+  <writer>
+    <code>1027195</code>
+    <name>Autor do livro 1027195</name>
+    <book>Titulo do livro 1027195</book>
+    <address>11982</address>
+  </writer>
+  <writer>
+    <code>3016925</code>
+    <name>Autor do livro 3016925</name>
+    <book>Titulo do livro 3016925</book>
+    <address>31908</address>
+  </writer>
+  <writer>
+    <code>3488552</code>
+    <name>Autor do livro 3488552</name>
+    <book>Titulo do livro 3488552</book>
+    <address>31912</address>
+  </writer>
+  <writer>
+    <code>1561897</code>
+    <name>Autor do livro 1561897</name>
+    <book>Titulo do livro 1561897</book>
+    <address>21997</address>
+  </writer>
+  <writer>
+    <code>3627112</code>
+    <name>Autor do livro 3627112</name>
+    <book>Titulo do livro 3627112</book>
+    <address>41966</address>
+  </writer>
+  <writer>
+    <code>1084965</code>
+    <name>Autor do livro 1084965</name>
+    <book>Titulo do livro 1084965</book>
+    <address>31972</address>
+  </writer>
+  <writer>
+    <code>1200917</code>
+    <name>Autor do livro 1200917</name>
+    <book>Titulo do livro 1200917</book>
+    <address>51980</address>
+  </writer>
+  <writer>
+    <code>3363246</code>
+    <name>Autor do livro 3363246</name>
+    <book>Titulo do livro 3363246</book>
+    <address>51975</address>
+  </writer>
+  <writer>
+    <code>1378129</code>
+    <name>Autor do livro 1378129</name>
+    <book>Titulo do livro 1378129</book>
+    <address>71925</address>
+  </writer>
+  <writer>
+    <code>3730339</code>
+    <name>Autor do livro 3730339</name>
+    <book>Titulo do livro 3730339</book>
+    <address>62009</address>
+  </writer>
+  <writer>
+    <code>3546819</code>
+    <name>Autor do livro 3546819</name>
+    <book>Titulo do livro 3546819</book>
+    <address>81972</address>
+  </writer>
+  <writer>
+    <code>1777811</code>
+    <name>Autor do livro 1777811</name>
+    <book>Titulo do livro 1777811</book>
+    <address>61911</address>
+  </writer>
+  <writer>
+    <code>2275347</code>
+    <name>Autor do livro 2275347</name>
+    <book>Titulo do livro 2275347</book>
+    <address>71963</address>
+  </writer>
+  <writer>
+    <code>1433591</code>
+    <name>Autor do livro 1433591</name>
+    <book>Titulo do livro 1433591</book>
+    <address>12002</address>
+  </writer>
+  <writer>
+    <code>3150841</code>
+    <name>Autor do livro 3150841</name>
+    <book>Titulo do livro 3150841</book>
+    <address>42009</address>
+  </writer>
+  <writer>
+    <code>2549328</code>
+    <name>Autor do livro 2549328</name>
+    <book>Titulo do livro 2549328</book>
+    <address>41950</address>
+  </writer>
+  <writer>
+    <code>3162186</code>
+    <name>Autor do livro 3162186</name>
+    <book>Titulo do livro 3162186</book>
+    <address>61895</address>
+  </writer>
+  <writer>
+    <code>3397206</code>
+    <name>Autor do livro 3397206</name>
+    <book>Titulo do livro 3397206</book>
+    <address>71919</address>
+  </writer>
+  <writer>
+    <code>1297628</code>
+    <name>Autor do livro 1297628</name>
+    <book>Titulo do livro 1297628</book>
+    <address>71913</address>
+  </writer>
+  <writer>
+    <code>3624042</code>
+    <name>Autor do livro 3624042</name>
+    <book>Titulo do livro 3624042</book>
+    <address>61958</address>
+  </writer>
+  <writer>
+    <code>2417077</code>
+    <name>Autor do livro 2417077</name>
+    <book>Titulo do livro 2417077</book>
+    <address>41968</address>
+  </writer>
+  <writer>
+    <code>3981629</code>
+    <name>Autor do livro 3981629</name>
+    <book>Titulo do livro 3981629</book>
+    <address>31904</address>
+  </writer>
+  <writer>
+    <code>3940529</code>
+    <name>Autor do livro 3940529</name>
+    <book>Titulo do livro 3940529</book>
+    <address>82007</address>
+  </writer>
+  <writer>
+    <code>2979788</code>
+    <name>Autor do livro 2979788</name>
+    <book>Titulo do livro 2979788</book>
+    <address>12010</address>
+  </writer>
+  <writer>
+    <code>1121919</code>
+    <name>Autor do livro 1121919</name>
+    <book>Titulo do livro 1121919</book>
+    <address>71972</address>
+  </writer>
+  <writer>
+    <code>2053449</code>
+    <name>Autor do livro 2053449</name>
+    <book>Titulo do livro 2053449</book>
+    <address>71911</address>
+  </writer>
+  <writer>
+    <code>3283028</code>
+    <name>Autor do livro 3283028</name>
+    <book>Titulo do livro 3283028</book>
+    <address>61891</address>
+  </writer>
+  <writer>
+    <code>1672564</code>
+    <name>Autor do livro 1672564</name>
+    <book>Titulo do livro 1672564</book>
+    <address>51892</address>
+  </writer>
+  <writer>
+    <code>3833090</code>
+    <name>Autor do livro 3833090</name>
+    <book>Titulo do livro 3833090</book>
+    <address>21933</address>
+  </writer>
+  <writer>
+    <code>3913936</code>
+    <name>Autor do livro 3913936</name>
+    <book>Titulo do livro 3913936</book>
+    <address>41997</address>
+  </writer>
+  <writer>
+    <code>2992619</code>
+    <name>Autor do livro 2992619</name>
+    <book>Titulo do livro 2992619</book>
+    <address>51900</address>
+  </writer>
+  <writer>
+    <code>2597669</code>
+    <name>Autor do livro 2597669</name>
+    <book>Titulo do livro 2597669</book>
+    <address>71939</address>
+  </writer>
+  <writer>
+    <code>2479156</code>
+    <name>Autor do livro 2479156</name>
+    <book>Titulo do livro 2479156</book>
+    <address>31925</address>
+  </writer>
+  <writer>
+    <code>2352372</code>
+    <name>Autor do livro 2352372</name>
+    <book>Titulo do livro 2352372</book>
+    <address>21992</address>
+  </writer>
+  <writer>
+    <code>1633957</code>
+    <name>Autor do livro 1633957</name>
+    <book>Titulo do livro 1633957</book>
+    <address>61976</address>
+  </writer>
+  <writer>
+    <code>1620837</code>
+    <name>Autor do livro 1620837</name>
+    <book>Titulo do livro 1620837</book>
+    <address>42003</address>
+  </writer>
+  <writer>
+    <code>2511034</code>
+    <name>Autor do livro 2511034</name>
+    <book>Titulo do livro 2511034</book>
+    <address>11902</address>
+  </writer>
+  <writer>
+    <code>3013973</code>
+    <name>Autor do livro 3013973</name>
+    <book>Titulo do livro 3013973</book>
+    <address>71948</address>
+  </writer>
+  <writer>
+    <code>1745256</code>
+    <name>Autor do livro 1745256</name>
+    <book>Titulo do livro 1745256</book>
+    <address>31964</address>
+  </writer>
+  <writer>
+    <code>1009568</code>
+    <name>Autor do livro 1009568</name>
+    <book>Titulo do livro 1009568</book>
+    <address>61936</address>
+  </writer>
+  <writer>
+    <code>3292797</code>
+    <name>Autor do livro 3292797</name>
+    <book>Titulo do livro 3292797</book>
+    <address>21894</address>
+  </writer>
+  <writer>
+    <code>2633611</code>
+    <name>Autor do livro 2633611</name>
+    <book>Titulo do livro 2633611</book>
+    <address>51941</address>
+  </writer>
+  <writer>
+    <code>1158281</code>
+    <name>Autor do livro 1158281</name>
+    <book>Titulo do livro 1158281</book>
+    <address>21966</address>
+  </writer>
+  <writer>
+    <code>3147150</code>
+    <name>Autor do livro 3147150</name>
+    <book>Titulo do livro 3147150</book>
+    <address>81989</address>
+  </writer>
+  <writer>
+    <code>2953988</code>
+    <name>Autor do livro 2953988</name>
+    <book>Titulo do livro 2953988</book>
+    <address>11911</address>
+  </writer>
+  <writer>
+    <code>2667866</code>
+    <name>Autor do livro 2667866</name>
+    <book>Titulo do livro 2667866</book>
+    <address>11966</address>
+  </writer>
+  <writer>
+    <code>2319490</code>
+    <name>Autor do livro 2319490</name>
+    <book>Titulo do livro 2319490</book>
+    <address>21923</address>
+  </writer>
+  <writer>
+    <code>2159031</code>
+    <name>Autor do livro 2159031</name>
+    <book>Titulo do livro 2159031</book>
+    <address>11923</address>
+  </writer>
+  <writer>
+    <code>3527578</code>
+    <name>Autor do livro 3527578</name>
+    <book>Titulo do livro 3527578</book>
+    <address>71944</address>
+  </writer>
+  <writer>
+    <code>1468848</code>
+    <name>Autor do livro 1468848</name>
+    <book>Titulo do livro 1468848</book>
+    <address>31993</address>
+  </writer>
+  <writer>
+    <code>1254648</code>
+    <name>Autor do livro 1254648</name>
+    <book>Titulo do livro 1254648</book>
+    <address>61966</address>
+  </writer>
+  <writer>
+    <code>3212291</code>
+    <name>Autor do livro 3212291</name>
+    <book>Titulo do livro 3212291</book>
+    <address>61914</address>
+  </writer>
+  <writer>
+    <code>3761613</code>
+    <name>Autor do livro 3761613</name>
+    <book>Titulo do livro 3761613</book>
+    <address>11987</address>
+  </writer>
+  <writer>
+    <code>1911112</code>
+    <name>Autor do livro 1911112</name>
+    <book>Titulo do livro 1911112</book>
+    <address>51988</address>
+  </writer>
+  <writer>
+    <code>1547799</code>
+    <name>Autor do livro 1547799</name>
+    <book>Titulo do livro 1547799</book>
+    <address>61943</address>
+  </writer>
+  <writer>
+    <code>1201788</code>
+    <name>Autor do livro 1201788</name>
+    <book>Titulo do livro 1201788</book>
+    <address>71921</address>
+  </writer>
+  <writer>
+    <code>1836999</code>
+    <name>Autor do livro 1836999</name>
+    <book>Titulo do livro 1836999</book>
+    <address>31934</address>
+  </writer>
+  <writer>
+    <code>1098317</code>
+    <name>Autor do livro 1098317</name>
+    <book>Titulo do livro 1098317</book>
+    <address>51936</address>
+  </writer>
+  <writer>
+    <code>1290384</code>
+    <name>Autor do livro 1290384</name>
+    <book>Titulo do livro 1290384</book>
+    <address>41977</address>
+  </writer>
+  <writer>
+    <code>2685505</code>
+    <name>Autor do livro 2685505</name>
+    <book>Titulo do livro 2685505</book>
+    <address>61903</address>
+  </writer>
+  <writer>
+    <code>2298717</code>
+    <name>Autor do livro 2298717</name>
+    <book>Titulo do livro 2298717</book>
+    <address>51940</address>
+  </writer>
+  <writer>
+    <code>3480647</code>
+    <name>Autor do livro 3480647</name>
+    <book>Titulo do livro 3480647</book>
+    <address>31899</address>
+  </writer>
+  <writer>
+    <code>3906999</code>
+    <name>Autor do livro 3906999</name>
+    <book>Titulo do livro 3906999</book>
+    <address>61985</address>
+  </writer>
+  <writer>
+    <code>2106332</code>
+    <name>Autor do livro 2106332</name>
+    <book>Titulo do livro 2106332</book>
+    <address>21972</address>
+  </writer>
+  <writer>
+    <code>3761266</code>
+    <name>Autor do livro 3761266</name>
+    <book>Titulo do livro 3761266</book>
+    <address>71999</address>
+  </writer>
+  <writer>
+    <code>2686741</code>
+    <name>Autor do livro 2686741</name>
+    <book>Titulo do livro 2686741</book>
+    <address>21983</address>
+  </writer>
+  <writer>
+    <code>2047004</code>
+    <name>Autor do livro 2047004</name>
+    <book>Titulo do livro 2047004</book>
+    <address>61963</address>
+  </writer>
+  <writer>
+    <code>1349369</code>
+    <name>Autor do livro 1349369</name>
+    <book>Titulo do livro 1349369</book>
+    <address>21956</address>
+  </writer>
+  <writer>
+    <code>1620321</code>
+    <name>Autor do livro 1620321</name>
+    <book>Titulo do livro 1620321</book>
+    <address>61971</address>
+  </writer>
+  <writer>
+    <code>2208547</code>
+    <name>Autor do livro 2208547</name>
+    <book>Titulo do livro 2208547</book>
+    <address>81909</address>
+  </writer>
+  <writer>
+    <code>1559002</code>
+    <name>Autor do livro 1559002</name>
+    <book>Titulo do livro 1559002</book>
+    <address>42008</address>
+  </writer>
+  <writer>
+    <code>3064697</code>
+    <name>Autor do livro 3064697</name>
+    <book>Titulo do livro 3064697</book>
+    <address>61963</address>
+  </writer>
+  <writer>
+    <code>2176779</code>
+    <name>Autor do livro 2176779</name>
+    <book>Titulo do livro 2176779</book>
+    <address>51944</address>
+  </writer>
+  <writer>
+    <code>3148280</code>
+    <name>Autor do livro 3148280</name>
+    <book>Titulo do livro 3148280</book>
+    <address>81991</address>
+  </writer>
+  <writer>
+    <code>2564672</code>
+    <name>Autor do livro 2564672</name>
+    <book>Titulo do livro 2564672</book>
+    <address>51998</address>
+  </writer>
+  <writer>
+    <code>2274860</code>
+    <name>Autor do livro 2274860</name>
+    <book>Titulo do livro 2274860</book>
+    <address>41909</address>
+  </writer>
+  <writer>
+    <code>2971744</code>
+    <name>Autor do livro 2971744</name>
+    <book>Titulo do livro 2971744</book>
+    <address>72000</address>
+  </writer>
+  <writer>
+    <code>1482878</code>
+    <name>Autor do livro 1482878</name>
+    <book>Titulo do livro 1482878</book>
+    <address>31909</address>
+  </writer>
+  <writer>
+    <code>1287419</code>
+    <name>Autor do livro 1287419</name>
+    <book>Titulo do livro 1287419</book>
+    <address>61986</address>
+  </writer>
+  <writer>
+    <code>3296819</code>
+    <name>Autor do livro 3296819</name>
+    <book>Titulo do livro 3296819</book>
+    <address>11974</address>
+  </writer>
+  <writer>
+    <code>2035524</code>
+    <name>Autor do livro 2035524</name>
+    <book>Titulo do livro 2035524</book>
+    <address>71938</address>
+  </writer>
+  <writer>
+    <code>2663158</code>
+    <name>Autor do livro 2663158</name>
+    <book>Titulo do livro 2663158</book>
+    <address>42002</address>
+  </writer>
+  <writer>
+    <code>2742440</code>
+    <name>Autor do livro 2742440</name>
+    <book>Titulo do livro 2742440</book>
+    <address>31893</address>
+  </writer>
+  <writer>
+    <code>3902921</code>
+    <name>Autor do livro 3902921</name>
+    <book>Titulo do livro 3902921</book>
+    <address>11933</address>
+  </writer>
+  <writer>
+    <code>3024998</code>
+    <name>Autor do livro 3024998</name>
+    <book>Titulo do livro 3024998</book>
+    <address>61963</address>
+  </writer>
+  <writer>
+    <code>1478171</code>
+    <name>Autor do livro 1478171</name>
+    <book>Titulo do livro 1478171</book>
+    <address>11955</address>
+  </writer>
+  <writer>
+    <code>3972519</code>
+    <name>Autor do livro 3972519</name>
+    <book>Titulo do livro 3972519</book>
+    <address>81950</address>
+  </writer>
+  <writer>
+    <code>2484032</code>
+    <name>Autor do livro 2484032</name>
+    <book>Titulo do livro 2484032</book>
+    <address>82003</address>
+  </writer>
+  <writer>
+    <code>3032071</code>
+    <name>Autor do livro 3032071</name>
+    <book>Titulo do livro 3032071</book>
+    <address>71968</address>
+  </writer>
+  <writer>
+    <code>3236316</code>
+    <name>Autor do livro 3236316</name>
+    <book>Titulo do livro 3236316</book>
+    <address>41896</address>
+  </writer>
+  <writer>
+    <code>1572384</code>
+    <name>Autor do livro 1572384</name>
+    <book>Titulo do livro 1572384</book>
+    <address>32012</address>
+  </writer>
+  <writer>
+    <code>3304476</code>
+    <name>Autor do livro 3304476</name>
+    <book>Titulo do livro 3304476</book>
+    <address>12001</address>
+  </writer>
+  <writer>
+    <code>1569429</code>
+    <name>Autor do livro 1569429</name>
+    <book>Titulo do livro 1569429</book>
+    <address>81953</address>
+  </writer>
+  <writer>
+    <code>2013185</code>
+    <name>Autor do livro 2013185</name>
+    <book>Titulo do livro 2013185</book>
+    <address>81979</address>
+  </writer>
+  <writer>
+    <code>3905392</code>
+    <name>Autor do livro 3905392</name>
+    <book>Titulo do livro 3905392</book>
+    <address>71987</address>
+  </writer>
+  <writer>
+    <code>3160180</code>
+    <name>Autor do livro 3160180</name>
+    <book>Titulo do livro 3160180</book>
+    <address>51915</address>
+  </writer>
+  <writer>
+    <code>1397411</code>
+    <name>Autor do livro 1397411</name>
+    <book>Titulo do livro 1397411</book>
+    <address>31961</address>
+  </writer>
+  <writer>
+    <code>3469730</code>
+    <name>Autor do livro 3469730</name>
+    <book>Titulo do livro 3469730</book>
+    <address>71971</address>
+  </writer>
+  <writer>
+    <code>2565083</code>
+    <name>Autor do livro 2565083</name>
+    <book>Titulo do livro 2565083</book>
+    <address>31907</address>
+  </writer>
+  <writer>
+    <code>1912815</code>
+    <name>Autor do livro 1912815</name>
+    <book>Titulo do livro 1912815</book>
+    <address>31988</address>
+  </writer>
+  <writer>
+    <code>2304284</code>
+    <name>Autor do livro 2304284</name>
+    <book>Titulo do livro 2304284</book>
+    <address>61936</address>
+  </writer>
+  <writer>
+    <code>3896110</code>
+    <name>Autor do livro 3896110</name>
+    <book>Titulo do livro 3896110</book>
+    <address>11993</address>
+  </writer>
+  <writer>
+    <code>3005969</code>
+    <name>Autor do livro 3005969</name>
+    <book>Titulo do livro 3005969</book>
+    <address>11960</address>
+  </writer>
+  <writer>
+    <code>3021368</code>
+    <name>Autor do livro 3021368</name>
+    <book>Titulo do livro 3021368</book>
+    <address>51923</address>
+  </writer>
+  <writer>
+    <code>2772626</code>
+    <name>Autor do livro 2772626</name>
+    <book>Titulo do livro 2772626</book>
+    <address>71967</address>
+  </writer>
+  <writer>
+    <code>3094489</code>
+    <name>Autor do livro 3094489</name>
+    <book>Titulo do livro 3094489</book>
+    <address>51939</address>
+  </writer>
+  <writer>
+    <code>1582352</code>
+    <name>Autor do livro 1582352</name>
+    <book>Titulo do livro 1582352</book>
+    <address>31980</address>
+  </writer>
+  <writer>
+    <code>1037542</code>
+    <name>Autor do livro 1037542</name>
+    <book>Titulo do livro 1037542</book>
+    <address>11964</address>
+  </writer>
+  <writer>
+    <code>3959934</code>
+    <name>Autor do livro 3959934</name>
+    <book>Titulo do livro 3959934</book>
+    <address>51996</address>
+  </writer>
+  <writer>
+    <code>1638492</code>
+    <name>Autor do livro 1638492</name>
+    <book>Titulo do livro 1638492</book>
+    <address>11981</address>
+  </writer>
+  <writer>
+    <code>3473628</code>
+    <name>Autor do livro 3473628</name>
+    <book>Titulo do livro 3473628</book>
+    <address>21993</address>
+  </writer>
+  <writer>
+    <code>2485147</code>
+    <name>Autor do livro 2485147</name>
+    <book>Titulo do livro 2485147</book>
+    <address>21928</address>
+  </writer>
+  <writer>
+    <code>3363166</code>
+    <name>Autor do livro 3363166</name>
+    <book>Titulo do livro 3363166</book>
+    <address>81961</address>
+  </writer>
+  <writer>
+    <code>1936177</code>
+    <name>Autor do livro 1936177</name>
+    <book>Titulo do livro 1936177</book>
+    <address>51940</address>
+  </writer>
+  <writer>
+    <code>1299540</code>
+    <name>Autor do livro 1299540</name>
+    <book>Titulo do livro 1299540</book>
+    <address>51900</address>
+  </writer>
+  <writer>
+    <code>2223297</code>
+    <name>Autor do livro 2223297</name>
+    <book>Titulo do livro 2223297</book>
+    <address>51925</address>
+  </writer>
+  <writer>
+    <code>1515756</code>
+    <name>Autor do livro 1515756</name>
+    <book>Titulo do livro 1515756</book>
+    <address>31967</address>
+  </writer>
+  <writer>
+    <code>1626218</code>
+    <name>Autor do livro 1626218</name>
+    <book>Titulo do livro 1626218</book>
+    <address>51980</address>
+  </writer>
+  <writer>
+    <code>2232107</code>
+    <name>Autor do livro 2232107</name>
+    <book>Titulo do livro 2232107</book>
+    <address>71999</address>
+  </writer>
+  <writer>
+    <code>2969737</code>
+    <name>Autor do livro 2969737</name>
+    <book>Titulo do livro 2969737</book>
+    <address>21939</address>
+  </writer>
+  <writer>
+    <code>1028118</code>
+    <name>Autor do livro 1028118</name>
+    <book>Titulo do livro 1028118</book>
+    <address>11916</address>
+  </writer>
+  <writer>
+    <code>2687989</code>
+    <name>Autor do livro 2687989</name>
+    <book>Titulo do livro 2687989</book>
+    <address>21900</address>
+  </writer>
+  <writer>
+    <code>2669096</code>
+    <name>Autor do livro 2669096</name>
+    <book>Titulo do livro 2669096</book>
+    <address>61903</address>
+  </writer>
+  <writer>
+    <code>2000016</code>
+    <name>Autor do livro 2000016</name>
+    <book>Titulo do livro 2000016</book>
+    <address>31913</address>
+  </writer>
+  <writer>
+    <code>1159023</code>
+    <name>Autor do livro 1159023</name>
+    <book>Titulo do livro 1159023</book>
+    <address>42006</address>
+  </writer>
+  <writer>
+    <code>1399498</code>
+    <name>Autor do livro 1399498</name>
+    <book>Titulo do livro 1399498</book>
+    <address>41914</address>
+  </writer>
+  <writer>
+    <code>1299945</code>
+    <name>Autor do livro 1299945</name>
+    <book>Titulo do livro 1299945</book>
+    <address>41967</address>
+  </writer>
+  <writer>
+    <code>3466596</code>
+    <name>Autor do livro 3466596</name>
+    <book>Titulo do livro 3466596</book>
+    <address>11953</address>
+  </writer>
+  <writer>
+    <code>3466007</code>
+    <name>Autor do livro 3466007</name>
+    <book>Titulo do livro 3466007</book>
+    <address>21998</address>
+  </writer>
+  <writer>
+    <code>1046463</code>
+    <name>Autor do livro 1046463</name>
+    <book>Titulo do livro 1046463</book>
+    <address>61925</address>
+  </writer>
+  <writer>
+    <code>1972815</code>
+    <name>Autor do livro 1972815</name>
+    <book>Titulo do livro 1972815</book>
+    <address>71991</address>
+  </writer>
+  <writer>
+    <code>2907940</code>
+    <name>Autor do livro 2907940</name>
+    <book>Titulo do livro 2907940</book>
+    <address>81915</address>
+  </writer>
+  <writer>
+    <code>2767462</code>
+    <name>Autor do livro 2767462</name>
+    <book>Titulo do livro 2767462</book>
+    <address>22000</address>
+  </writer>
+  <writer>
+    <code>3797669</code>
+    <name>Autor do livro 3797669</name>
+    <book>Titulo do livro 3797669</book>
+    <address>82000</address>
+  </writer>
+  <writer>
+    <code>2686577</code>
+    <name>Autor do livro 2686577</name>
+    <book>Titulo do livro 2686577</book>
+    <address>31893</address>
+  </writer>
+  <writer>
+    <code>2870216</code>
+    <name>Autor do livro 2870216</name>
+    <book>Titulo do livro 2870216</book>
+    <address>11919</address>
+  </writer>
+  <writer>
+    <code>2584787</code>
+    <name>Autor do livro 2584787</name>
+    <book>Titulo do livro 2584787</book>
+    <address>11979</address>
+  </writer>
+  <writer>
+    <code>2722599</code>
+    <name>Autor do livro 2722599</name>
+    <book>Titulo do livro 2722599</book>
+    <address>21979</address>
+  </writer>
+  <writer>
+    <code>2371931</code>
+    <name>Autor do livro 2371931</name>
+    <book>Titulo do livro 2371931</book>
+    <address>51916</address>
+  </writer>
+  <writer>
+    <code>2387501</code>
+    <name>Autor do livro 2387501</name>
+    <book>Titulo do livro 2387501</book>
+    <address>12007</address>
+  </writer>
+  <writer>
+    <code>3834990</code>
+    <name>Autor do livro 3834990</name>
+    <book>Titulo do livro 3834990</book>
+    <address>41941</address>
+  </writer>
+  <writer>
+    <code>1790875</code>
+    <name>Autor do livro 1790875</name>
+    <book>Titulo do livro 1790875</book>
+    <address>51987</address>
+  </writer>
+  <writer>
+    <code>3720328</code>
+    <name>Autor do livro 3720328</name>
+    <book>Titulo do livro 3720328</book>
+    <address>31985</address>
+  </writer>
+  <writer>
+    <code>1385435</code>
+    <name>Autor do livro 1385435</name>
+    <book>Titulo do livro 1385435</book>
+    <address>11948</address>
+  </writer>
+  <writer>
+    <code>3583866</code>
+    <name>Autor do livro 3583866</name>
+    <book>Titulo do livro 3583866</book>
+    <address>51916</address>
+  </writer>
+  <writer>
+    <code>2173091</code>
+    <name>Autor do livro 2173091</name>
+    <book>Titulo do livro 2173091</book>
+    <address>71901</address>
+  </writer>
+  <writer>
+    <code>2186962</code>
+    <name>Autor do livro 2186962</name>
+    <book>Titulo do livro 2186962</book>
+    <address>52001</address>
+  </writer>
+  <writer>
+    <code>2635696</code>
+    <name>Autor do livro 2635696</name>
+    <book>Titulo do livro 2635696</book>
+    <address>71903</address>
+  </writer>
+  <writer>
+    <code>3085155</code>
+    <name>Autor do livro 3085155</name>
+    <book>Titulo do livro 3085155</book>
+    <address>21993</address>
+  </writer>
+  <writer>
+    <code>1093652</code>
+    <name>Autor do livro 1093652</name>
+    <book>Titulo do livro 1093652</book>
+    <address>11900</address>
+  </writer>
+  <writer>
+    <code>1910129</code>
+    <name>Autor do livro 1910129</name>
+    <book>Titulo do livro 1910129</book>
+    <address>21894</address>
+  </writer>
+  <writer>
+    <code>2950918</code>
+    <name>Autor do livro 2950918</name>
+    <book>Titulo do livro 2950918</book>
+    <address>31994</address>
+  </writer>
+  <writer>
+    <code>2598127</code>
+    <name>Autor do livro 2598127</name>
+    <book>Titulo do livro 2598127</book>
+    <address>81949</address>
+  </writer>
+  <writer>
+    <code>3680593</code>
+    <name>Autor do livro 3680593</name>
+    <book>Titulo do livro 3680593</book>
+    <address>51929</address>
+  </writer>
+  <writer>
+    <code>3058448</code>
+    <name>Autor do livro 3058448</name>
+    <book>Titulo do livro 3058448</book>
+    <address>11915</address>
+  </writer>
+  <writer>
+    <code>2018489</code>
+    <name>Autor do livro 2018489</name>
+    <book>Titulo do livro 2018489</book>
+    <address>21922</address>
+  </writer>
+  <writer>
+    <code>2722724</code>
+    <name>Autor do livro 2722724</name>
+    <book>Titulo do livro 2722724</book>
+    <address>41987</address>
+  </writer>
+  <writer>
+    <code>2115890</code>
+    <name>Autor do livro 2115890</name>
+    <book>Titulo do livro 2115890</book>
+    <address>21980</address>
+  </writer>
+  <writer>
+    <code>2498968</code>
+    <name>Autor do livro 2498968</name>
+    <book>Titulo do livro 2498968</book>
+    <address>81930</address>
+  </writer>
+  <writer>
+    <code>1800524</code>
+    <name>Autor do livro 1800524</name>
+    <book>Titulo do livro 1800524</book>
+    <address>21965</address>
+  </writer>
+  <writer>
+    <code>3152743</code>
+    <name>Autor do livro 3152743</name>
+    <book>Titulo do livro 3152743</book>
+    <address>72004</address>
+  </writer>
+  <writer>
+    <code>1075864</code>
+    <name>Autor do livro 1075864</name>
+    <book>Titulo do livro 1075864</book>
+    <address>81898</address>
+  </writer>
+  <writer>
+    <code>2361040</code>
+    <name>Autor do livro 2361040</name>
+    <book>Titulo do livro 2361040</book>
+    <address>31998</address>
+  </writer>
+  <writer>
+    <code>1809419</code>
+    <name>Autor do livro 1809419</name>
+    <book>Titulo do livro 1809419</book>
+    <address>32008</address>
+  </writer>
+  <writer>
+    <code>3577649</code>
+    <name>Autor do livro 3577649</name>
+    <book>Titulo do livro 3577649</book>
+    <address>51997</address>
+  </writer>
+  <writer>
+    <code>3766726</code>
+    <name>Autor do livro 3766726</name>
+    <book>Titulo do livro 3766726</book>
+    <address>12001</address>
+  </writer>
+  <writer>
+    <code>1932987</code>
+    <name>Autor do livro 1932987</name>
+    <book>Titulo do livro 1932987</book>
+    <address>11936</address>
+  </writer>
+  <writer>
+    <code>3213450</code>
+    <name>Autor do livro 3213450</name>
+    <book>Titulo do livro 3213450</book>
+    <address>31890</address>
+  </writer>
+  <writer>
+    <code>3343546</code>
+    <name>Autor do livro 3343546</name>
+    <book>Titulo do livro 3343546</book>
+    <address>51939</address>
+  </writer>
+  <writer>
+    <code>3769517</code>
+    <name>Autor do livro 3769517</name>
+    <book>Titulo do livro 3769517</book>
+    <address>81909</address>
+  </writer>
+  <writer>
+    <code>2308201</code>
+    <name>Autor do livro 2308201</name>
+    <book>Titulo do livro 2308201</book>
+    <address>41985</address>
+  </writer>
+  <writer>
+    <code>1572903</code>
+    <name>Autor do livro 1572903</name>
+    <book>Titulo do livro 1572903</book>
+    <address>81966</address>
+  </writer>
+  <writer>
+    <code>2037647</code>
+    <name>Autor do livro 2037647</name>
+    <book>Titulo do livro 2037647</book>
+    <address>81958</address>
+  </writer>
+  <writer>
+    <code>2176199</code>
+    <name>Autor do livro 2176199</name>
+    <book>Titulo do livro 2176199</book>
+    <address>41935</address>
+  </writer>
+  <writer>
+    <code>1627578</code>
+    <name>Autor do livro 1627578</name>
+    <book>Titulo do livro 1627578</book>
+    <address>81948</address>
+  </writer>
+  <writer>
+    <code>1126957</code>
+    <name>Autor do livro 1126957</name>
+    <book>Titulo do livro 1126957</book>
+    <address>51927</address>
+  </writer>
+  <writer>
+    <code>3220267</code>
+    <name>Autor do livro 3220267</name>
+    <book>Titulo do livro 3220267</book>
+    <address>51990</address>
+  </writer>
+  <writer>
+    <code>2628298</code>
+    <name>Autor do livro 2628298</name>
+    <book>Titulo do livro 2628298</book>
+    <address>81893</address>
+  </writer>
+  <writer>
+    <code>2320899</code>
+    <name>Autor do livro 2320899</name>
+    <book>Titulo do livro 2320899</book>
+    <address>61962</address>
+  </writer>
+  <writer>
+    <code>1365343</code>
+    <name>Autor do livro 1365343</name>
+    <book>Titulo do livro 1365343</book>
+    <address>61958</address>
+  </writer>
+  <writer>
+    <code>1419964</code>
+    <name>Autor do livro 1419964</name>
+    <book>Titulo do livro 1419964</book>
+    <address>31991</address>
+  </writer>
+  <writer>
+    <code>2133951</code>
+    <name>Autor do livro 2133951</name>
+    <book>Titulo do livro 2133951</book>
+    <address>41950</address>
+  </writer>
+  <writer>
+    <code>3759371</code>
+    <name>Autor do livro 3759371</name>
+    <book>Titulo do livro 3759371</book>
+    <address>21992</address>
+  </writer>
+  <writer>
+    <code>3082978</code>
+    <name>Autor do livro 3082978</name>
+    <book>Titulo do livro 3082978</book>
+    <address>51913</address>
+  </writer>
+  <writer>
+    <code>3993893</code>
+    <name>Autor do livro 3993893</name>
+    <book>Titulo do livro 3993893</book>
+    <address>31923</address>
+  </writer>
+  <writer>
+    <code>2643901</code>
+    <name>Autor do livro 2643901</name>
+    <book>Titulo do livro 2643901</book>
+    <address>41944</address>
+  </writer>
+  <writer>
+    <code>2070958</code>
+    <name>Autor do livro 2070958</name>
+    <book>Titulo do livro 2070958</book>
+    <address>51929</address>
+  </writer>
+  <writer>
+    <code>1190121</code>
+    <name>Autor do livro 1190121</name>
+    <book>Titulo do livro 1190121</book>
+    <address>31949</address>
+  </writer>
+  <writer>
+    <code>3713888</code>
+    <name>Autor do livro 3713888</name>
+    <book>Titulo do livro 3713888</book>
+    <address>31914</address>
+  </writer>
+  <writer>
+    <code>1073985</code>
+    <name>Autor do livro 1073985</name>
+    <book>Titulo do livro 1073985</book>
+    <address>81993</address>
+  </writer>
+  <writer>
+    <code>3518732</code>
+    <name>Autor do livro 3518732</name>
+    <book>Titulo do livro 3518732</book>
+    <address>51932</address>
+  </writer>
+  <writer>
+    <code>3881738</code>
+    <name>Autor do livro 3881738</name>
+    <book>Titulo do livro 3881738</book>
+    <address>61979</address>
+  </writer>
+  <writer>
+    <code>3542854</code>
+    <name>Autor do livro 3542854</name>
+    <book>Titulo do livro 3542854</book>
+    <address>21946</address>
+  </writer>
+  <writer>
+    <code>3389263</code>
+    <name>Autor do livro 3389263</name>
+    <book>Titulo do livro 3389263</book>
+    <address>41905</address>
+  </writer>
+  <writer>
+    <code>3882527</code>
+    <name>Autor do livro 3882527</name>
+    <book>Titulo do livro 3882527</book>
+    <address>51992</address>
+  </writer>
+  <writer>
+    <code>1683822</code>
+    <name>Autor do livro 1683822</name>
+    <book>Titulo do livro 1683822</book>
+    <address>11992</address>
+  </writer>
+  <writer>
+    <code>3463404</code>
+    <name>Autor do livro 3463404</name>
+    <book>Titulo do livro 3463404</book>
+    <address>61987</address>
+  </writer>
+  <writer>
+    <code>1114512</code>
+    <name>Autor do livro 1114512</name>
+    <book>Titulo do livro 1114512</book>
+    <address>21958</address>
+  </writer>
+  <writer>
+    <code>2287017</code>
+    <name>Autor do livro 2287017</name>
+    <book>Titulo do livro 2287017</book>
+    <address>71894</address>
+  </writer>
+  <writer>
+    <code>1705611</code>
+    <name>Autor do livro 1705611</name>
+    <book>Titulo do livro 1705611</book>
+    <address>12011</address>
+  </writer>
+  <writer>
+    <code>2016167</code>
+    <name>Autor do livro 2016167</name>
+    <book>Titulo do livro 2016167</book>
+    <address>11910</address>
+  </writer>
+  <writer>
+    <code>1878082</code>
+    <name>Autor do livro 1878082</name>
+    <book>Titulo do livro 1878082</book>
+    <address>41984</address>
+  </writer>
+  <writer>
+    <code>1683659</code>
+    <name>Autor do livro 1683659</name>
+    <book>Titulo do livro 1683659</book>
+    <address>61939</address>
+  </writer>
+  <writer>
+    <code>2363557</code>
+    <name>Autor do livro 2363557</name>
+    <book>Titulo do livro 2363557</book>
+    <address>71916</address>
+  </writer>
+  <writer>
+    <code>2779838</code>
+    <name>Autor do livro 2779838</name>
+    <book>Titulo do livro 2779838</book>
+    <address>11919</address>
+  </writer>
+  <writer>
+    <code>1301527</code>
+    <name>Autor do livro 1301527</name>
+    <book>Titulo do livro 1301527</book>
+    <address>41974</address>
+  </writer>
+  <writer>
+    <code>3284969</code>
+    <name>Autor do livro 3284969</name>
+    <book>Titulo do livro 3284969</book>
+    <address>51898</address>
+  </writer>
+  <writer>
+    <code>2440232</code>
+    <name>Autor do livro 2440232</name>
+    <book>Titulo do livro 2440232</book>
+    <address>21951</address>
+  </writer>
+  <writer>
+    <code>3636255</code>
+    <name>Autor do livro 3636255</name>
+    <book>Titulo do livro 3636255</book>
+    <address>21998</address>
+  </writer>
+  <writer>
+    <code>3890473</code>
+    <name>Autor do livro 3890473</name>
+    <book>Titulo do livro 3890473</book>
+    <address>32007</address>
+  </writer>
+  <writer>
+    <code>1598326</code>
+    <name>Autor do livro 1598326</name>
+    <book>Titulo do livro 1598326</book>
+    <address>41999</address>
+  </writer>
+  <writer>
+    <code>2312802</code>
+    <name>Autor do livro 2312802</name>
+    <book>Titulo do livro 2312802</book>
+    <address>41948</address>
+  </writer>
+  <writer>
+    <code>2208642</code>
+    <name>Autor do livro 2208642</name>
+    <book>Titulo do livro 2208642</book>
+    <address>61929</address>
+  </writer>
+  <writer>
+    <code>3526286</code>
+    <name>Autor do livro 3526286</name>
+    <book>Titulo do livro 3526286</book>
+    <address>71956</address>
+  </writer>
+  <writer>
+    <code>1660291</code>
+    <name>Autor do livro 1660291</name>
+    <book>Titulo do livro 1660291</book>
+    <address>51968</address>
+  </writer>
+  <writer>
+    <code>1844477</code>
+    <name>Autor do livro 1844477</name>
+    <book>Titulo do livro 1844477</book>
+    <address>81957</address>
+  </writer>
+  <writer>
+    <code>3091080</code>
+    <name>Autor do livro 3091080</name>
+    <book>Titulo do livro 3091080</book>
+    <address>31978</address>
+  </writer>
+  <writer>
+    <code>2955481</code>
+    <name>Autor do livro 2955481</name>
+    <book>Titulo do livro 2955481</book>
+    <address>41930</address>
+  </writer>
+  <writer>
+    <code>3923976</code>
+    <name>Autor do livro 3923976</name>
+    <book>Titulo do livro 3923976</book>
+    <address>81984</address>
+  </writer>
+  <writer>
+    <code>3900798</code>
+    <name>Autor do livro 3900798</name>
+    <book>Titulo do livro 3900798</book>
+    <address>51898</address>
+  </writer>
+  <writer>
+    <code>1004890</code>
+    <name>Autor do livro 1004890</name>
+    <book>Titulo do livro 1004890</book>
+    <address>51936</address>
+  </writer>
+  <writer>
+    <code>3798703</code>
+    <name>Autor do livro 3798703</name>
+    <book>Titulo do livro 3798703</book>
+    <address>11970</address>
+  </writer>
+  <writer>
+    <code>1899280</code>
+    <name>Autor do livro 1899280</name>
+    <book>Titulo do livro 1899280</book>
+    <address>41952</address>
+  </writer>
+  <writer>
+    <code>3536819</code>
+    <name>Autor do livro 3536819</name>
+    <book>Titulo do livro 3536819</book>
+    <address>31998</address>
+  </writer>
+  <writer>
+    <code>3508123</code>
+    <name>Autor do livro 3508123</name>
+    <book>Titulo do livro 3508123</book>
+    <address>81914</address>
+  </writer>
+  <writer>
+    <code>2573253</code>
+    <name>Autor do livro 2573253</name>
+    <book>Titulo do livro 2573253</book>
+    <address>51955</address>
+  </writer>
+  <writer>
+    <code>3517722</code>
+    <name>Autor do livro 3517722</name>
+    <book>Titulo do livro 3517722</book>
+    <address>81967</address>
+  </writer>
+  <writer>
+    <code>1117643</code>
+    <name>Autor do livro 1117643</name>
+    <book>Titulo do livro 1117643</book>
+    <address>21976</address>
+  </writer>
+  <writer>
+    <code>1677399</code>
+    <name>Autor do livro 1677399</name>
+    <book>Titulo do livro 1677399</book>
+    <address>51988</address>
+  </writer>
+  <writer>
+    <code>2930625</code>
+    <name>Autor do livro 2930625</name>
+    <book>Titulo do livro 2930625</book>
+    <address>42008</address>
+  </writer>
+  <writer>
+    <code>1893352</code>
+    <name>Autor do livro 1893352</name>
+    <book>Titulo do livro 1893352</book>
+    <address>81906</address>
+  </writer>
+  <writer>
+    <code>3795077</code>
+    <name>Autor do livro 3795077</name>
+    <book>Titulo do livro 3795077</book>
+    <address>81999</address>
+  </writer>
+  <writer>
+    <code>3583609</code>
+    <name>Autor do livro 3583609</name>
+    <book>Titulo do livro 3583609</book>
+    <address>81920</address>
+  </writer>
+  <writer>
+    <code>1217490</code>
+    <name>Autor do livro 1217490</name>
+    <book>Titulo do livro 1217490</book>
+    <address>81955</address>
+  </writer>
+  <writer>
+    <code>3199595</code>
+    <name>Autor do livro 3199595</name>
+    <book>Titulo do livro 3199595</book>
+    <address>41966</address>
+  </writer>
+  <writer>
+    <code>2568922</code>
+    <name>Autor do livro 2568922</name>
+    <book>Titulo do livro 2568922</book>
+    <address>41919</address>
+  </writer>
+  <writer>
+    <code>1344322</code>
+    <name>Autor do livro 1344322</name>
+    <book>Titulo do livro 1344322</book>
+    <address>51944</address>
+  </writer>
+  <writer>
+    <code>1152943</code>
+    <name>Autor do livro 1152943</name>
+    <book>Titulo do livro 1152943</book>
+    <address>72000</address>
+  </writer>
+  <writer>
+    <code>2122265</code>
+    <name>Autor do livro 2122265</name>
+    <book>Titulo do livro 2122265</book>
+    <address>31958</address>
+  </writer>
+  <writer>
+    <code>3575818</code>
+    <name>Autor do livro 3575818</name>
+    <book>Titulo do livro 3575818</book>
+    <address>31995</address>
+  </writer>
+  <writer>
+    <code>2967981</code>
+    <name>Autor do livro 2967981</name>
+    <book>Titulo do livro 2967981</book>
+    <address>61918</address>
+  </writer>
+  <writer>
+    <code>3585951</code>
+    <name>Autor do livro 3585951</name>
+    <book>Titulo do livro 3585951</book>
+    <address>31904</address>
+  </writer>
+  <writer>
+    <code>3180547</code>
+    <name>Autor do livro 3180547</name>
+    <book>Titulo do livro 3180547</book>
+    <address>41984</address>
+  </writer>
+  <writer>
+    <code>3316028</code>
+    <name>Autor do livro 3316028</name>
+    <book>Titulo do livro 3316028</book>
+    <address>42012</address>
+  </writer>
+  <writer>
+    <code>3226626</code>
+    <name>Autor do livro 3226626</name>
+    <book>Titulo do livro 3226626</book>
+    <address>11995</address>
+  </writer>
+  <writer>
+    <code>1959488</code>
+    <name>Autor do livro 1959488</name>
+    <book>Titulo do livro 1959488</book>
+    <address>41983</address>
+  </writer>
+  <writer>
+    <code>2098011</code>
+    <name>Autor do livro 2098011</name>
+    <book>Titulo do livro 2098011</book>
+    <address>41930</address>
+  </writer>
+  <writer>
+    <code>2719212</code>
+    <name>Autor do livro 2719212</name>
+    <book>Titulo do livro 2719212</book>
+    <address>81934</address>
+  </writer>
+  <writer>
+    <code>1534177</code>
+    <name>Autor do livro 1534177</name>
+    <book>Titulo do livro 1534177</book>
+    <address>71899</address>
+  </writer>
+  <writer>
+    <code>2404842</code>
+    <name>Autor do livro 2404842</name>
+    <book>Titulo do livro 2404842</book>
+    <address>71965</address>
+  </writer>
+  <writer>
+    <code>3847405</code>
+    <name>Autor do livro 3847405</name>
+    <book>Titulo do livro 3847405</book>
+    <address>51928</address>
+  </writer>
+  <writer>
+    <code>1362526</code>
+    <name>Autor do livro 1362526</name>
+    <book>Titulo do livro 1362526</book>
+    <address>81931</address>
+  </writer>
+  <writer>
+    <code>1142123</code>
+    <name>Autor do livro 1142123</name>
+    <book>Titulo do livro 1142123</book>
+    <address>71982</address>
+  </writer>
+  <writer>
+    <code>2372424</code>
+    <name>Autor do livro 2372424</name>
+    <book>Titulo do livro 2372424</book>
+    <address>41940</address>
+  </writer>
+  <writer>
+    <code>1009491</code>
+    <name>Autor do livro 1009491</name>
+    <book>Titulo do livro 1009491</book>
+    <address>71992</address>
+  </writer>
+  <writer>
+    <code>1564221</code>
+    <name>Autor do livro 1564221</name>
+    <book>Titulo do livro 1564221</book>
+    <address>81912</address>
+  </writer>
+  <writer>
+    <code>2526138</code>
+    <name>Autor do livro 2526138</name>
+    <book>Titulo do livro 2526138</book>
+    <address>11919</address>
+  </writer>
+  <writer>
+    <code>2170868</code>
+    <name>Autor do livro 2170868</name>
+    <book>Titulo do livro 2170868</book>
+    <address>21907</address>
+  </writer>
+  <writer>
+    <code>2292845</code>
+    <name>Autor do livro 2292845</name>
+    <book>Titulo do livro 2292845</book>
+    <address>31948</address>
+  </writer>
+  <writer>
+    <code>3399996</code>
+    <name>Autor do livro 3399996</name>
+    <book>Titulo do livro 3399996</book>
+    <address>41985</address>
+  </writer>
+  <writer>
+    <code>1275695</code>
+    <name>Autor do livro 1275695</name>
+    <book>Titulo do livro 1275695</book>
+    <address>21993</address>
+  </writer>
+  <writer>
+    <code>2505564</code>
+    <name>Autor do livro 2505564</name>
+    <book>Titulo do livro 2505564</book>
+    <address>21921</address>
+  </writer>
+  <writer>
+    <code>1970692</code>
+    <name>Autor do livro 1970692</name>
+    <book>Titulo do livro 1970692</book>
+    <address>31979</address>
+  </writer>
+  <writer>
+    <code>3043116</code>
+    <name>Autor do livro 3043116</name>
+    <book>Titulo do livro 3043116</book>
+    <address>82009</address>
+  </writer>
+  <writer>
+    <code>1054468</code>
+    <name>Autor do livro 1054468</name>
+    <book>Titulo do livro 1054468</book>
+    <address>11918</address>
+  </writer>
+  <writer>
+    <code>2111258</code>
+    <name>Autor do livro 2111258</name>
+    <book>Titulo do livro 2111258</book>
+    <address>21921</address>
+  </writer>
+  <writer>
+    <code>2873176</code>
+    <name>Autor do livro 2873176</name>
+    <book>Titulo do livro 2873176</book>
+    <address>21952</address>
+  </writer>
+  <writer>
+    <code>1564068</code>
+    <name>Autor do livro 1564068</name>
+    <book>Titulo do livro 1564068</book>
+    <address>62000</address>
+  </writer>
+  <writer>
+    <code>2244222</code>
+    <name>Autor do livro 2244222</name>
+    <book>Titulo do livro 2244222</book>
+    <address>81907</address>
+  </writer>
+  <writer>
+    <code>1158820</code>
+    <name>Autor do livro 1158820</name>
+    <book>Titulo do livro 1158820</book>
+    <address>51973</address>
+  </writer>
+  <writer>
+    <code>1192203</code>
+    <name>Autor do livro 1192203</name>
+    <book>Titulo do livro 1192203</book>
+    <address>11999</address>
+  </writer>
+  <writer>
+    <code>1464868</code>
+    <name>Autor do livro 1464868</name>
+    <book>Titulo do livro 1464868</book>
+    <address>81952</address>
+  </writer>
+  <writer>
+    <code>2240958</code>
+    <name>Autor do livro 2240958</name>
+    <book>Titulo do livro 2240958</book>
+    <address>82003</address>
+  </writer>
+  <writer>
+    <code>2223294</code>
+    <name>Autor do livro 2223294</name>
+    <book>Titulo do livro 2223294</book>
+    <address>51997</address>
+  </writer>
+  <writer>
+    <code>1622886</code>
+    <name>Autor do livro 1622886</name>
+    <book>Titulo do livro 1622886</book>
+    <address>31971</address>
+  </writer>
+  <writer>
+    <code>2145703</code>
+    <name>Autor do livro 2145703</name>
+    <book>Titulo do livro 2145703</book>
+    <address>51921</address>
+  </writer>
+  <writer>
+    <code>3759519</code>
+    <name>Autor do livro 3759519</name>
+    <book>Titulo do livro 3759519</book>
+    <address>21914</address>
+  </writer>
+  <writer>
+    <code>2059290</code>
+    <name>Autor do livro 2059290</name>
+    <book>Titulo do livro 2059290</book>
+    <address>21938</address>
+  </writer>
+  <writer>
+    <code>1693828</code>
+    <name>Autor do livro 1693828</name>
+    <book>Titulo do livro 1693828</book>
+    <address>71963</address>
+  </writer>
+  <writer>
+    <code>3804155</code>
+    <name>Autor do livro 3804155</name>
+    <book>Titulo do livro 3804155</book>
+    <address>21981</address>
+  </writer>
+  <writer>
+    <code>1766037</code>
+    <name>Autor do livro 1766037</name>
+    <book>Titulo do livro 1766037</book>
+    <address>32001</address>
+  </writer>
+  <writer>
+    <code>3652763</code>
+    <name>Autor do livro 3652763</name>
+    <book>Titulo do livro 3652763</book>
+    <address>21894</address>
+  </writer>
+  <writer>
+    <code>2138702</code>
+    <name>Autor do livro 2138702</name>
+    <book>Titulo do livro 2138702</book>
+    <address>82001</address>
+  </writer>
+  <writer>
+    <code>3458944</code>
+    <name>Autor do livro 3458944</name>
+    <book>Titulo do livro 3458944</book>
+    <address>61987</address>
+  </writer>
+  <writer>
+    <code>1328277</code>
+    <name>Autor do livro 1328277</name>
+    <book>Titulo do livro 1328277</book>
+    <address>81931</address>
+  </writer>
+  <writer>
+    <code>3511974</code>
+    <name>Autor do livro 3511974</name>
+    <book>Titulo do livro 3511974</book>
+    <address>51940</address>
+  </writer>
+  <writer>
+    <code>3420323</code>
+    <name>Autor do livro 3420323</name>
+    <book>Titulo do livro 3420323</book>
+    <address>72000</address>
+  </writer>
+  <writer>
+    <code>3652891</code>
+    <name>Autor do livro 3652891</name>
+    <book>Titulo do livro 3652891</book>
+    <address>11981</address>
+  </writer>
+  <writer>
+    <code>1327281</code>
+    <name>Autor do livro 1327281</name>
+    <book>Titulo do livro 1327281</book>
+    <address>51942</address>
+  </writer>
+  <writer>
+    <code>1108248</code>
+    <name>Autor do livro 1108248</name>
+    <book>Titulo do livro 1108248</book>
+    <address>11982</address>
+  </writer>
+  <writer>
+    <code>1590803</code>
+    <name>Autor do livro 1590803</name>
+    <book>Titulo do livro 1590803</book>
+    <address>81980</address>
+  </writer>
+  <writer>
+    <code>2866309</code>
+    <name>Autor do livro 2866309</name>
+    <book>Titulo do livro 2866309</book>
+    <address>51996</address>
+  </writer>
+  <writer>
+    <code>1272436</code>
+    <name>Autor do livro 1272436</name>
+    <book>Titulo do livro 1272436</book>
+    <address>11945</address>
+  </writer>
+  <writer>
+    <code>2295930</code>
+    <name>Autor do livro 2295930</name>
+    <book>Titulo do livro 2295930</book>
+    <address>61996</address>
+  </writer>
+  <writer>
+    <code>3405847</code>
+    <name>Autor do livro 3405847</name>
+    <book>Titulo do livro 3405847</book>
+    <address>71902</address>
+  </writer>
+  <writer>
+    <code>1101220</code>
+    <name>Autor do livro 1101220</name>
+    <book>Titulo do livro 1101220</book>
+    <address>31905</address>
+  </writer>
+  <writer>
+    <code>1986296</code>
+    <name>Autor do livro 1986296</name>
+    <book>Titulo do livro 1986296</book>
+    <address>71916</address>
+  </writer>
+  <writer>
+    <code>2881631</code>
+    <name>Autor do livro 2881631</name>
+    <book>Titulo do livro 2881631</book>
+    <address>71896</address>
+  </writer>
+  <writer>
+    <code>3127333</code>
+    <name>Autor do livro 3127333</name>
+    <book>Titulo do livro 3127333</book>
+    <address>71953</address>
+  </writer>
+  <writer>
+    <code>1769235</code>
+    <name>Autor do livro 1769235</name>
+    <book>Titulo do livro 1769235</book>
+    <address>21945</address>
+  </writer>
+  <writer>
+    <code>2404625</code>
+    <name>Autor do livro 2404625</name>
+    <book>Titulo do livro 2404625</book>
+    <address>41896</address>
+  </writer>
+  <writer>
+    <code>2443190</code>
+    <name>Autor do livro 2443190</name>
+    <book>Titulo do livro 2443190</book>
+    <address>81952</address>
+  </writer>
+  <writer>
+    <code>2796974</code>
+    <name>Autor do livro 2796974</name>
+    <book>Titulo do livro 2796974</book>
+    <address>11906</address>
+  </writer>
+  <writer>
+    <code>1120069</code>
+    <name>Autor do livro 1120069</name>
+    <book>Titulo do livro 1120069</book>
+    <address>21989</address>
+  </writer>
+  <writer>
+    <code>3773394</code>
+    <name>Autor do livro 3773394</name>
+    <book>Titulo do livro 3773394</book>
+    <address>71907</address>
+  </writer>
+  <writer>
+    <code>3049573</code>
+    <name>Autor do livro 3049573</name>
+    <book>Titulo do livro 3049573</book>
+    <address>71933</address>
+  </writer>
+  <writer>
+    <code>3364577</code>
+    <name>Autor do livro 3364577</name>
+    <book>Titulo do livro 3364577</book>
+    <address>21897</address>
+  </writer>
+  <writer>
+    <code>2662104</code>
+    <name>Autor do livro 2662104</name>
+    <book>Titulo do livro 2662104</book>
+    <address>72009</address>
+  </writer>
+  <writer>
+    <code>3099345</code>
+    <name>Autor do livro 3099345</name>
+    <book>Titulo do livro 3099345</book>
+    <address>61936</address>
+  </writer>
+  <writer>
+    <code>3959241</code>
+    <name>Autor do livro 3959241</name>
+    <book>Titulo do livro 3959241</book>
+    <address>11929</address>
+  </writer>
+  <writer>
+    <code>2335299</code>
+    <name>Autor do livro 2335299</name>
+    <book>Titulo do livro 2335299</book>
+    <address>31942</address>
+  </writer>
+  <writer>
+    <code>1893186</code>
+    <name>Autor do livro 1893186</name>
+    <book>Titulo do livro 1893186</book>
+    <address>22006</address>
+  </writer>
+  <writer>
+    <code>2196981</code>
+    <name>Autor do livro 2196981</name>
+    <book>Titulo do livro 2196981</book>
+    <address>31997</address>
+  </writer>
+  <writer>
+    <code>1086170</code>
+    <name>Autor do livro 1086170</name>
+    <book>Titulo do livro 1086170</book>
+    <address>81979</address>
+  </writer>
+  <writer>
+    <code>1206872</code>
+    <name>Autor do livro 1206872</name>
+    <book>Titulo do livro 1206872</book>
+    <address>41918</address>
+  </writer>
+  <writer>
+    <code>1056538</code>
+    <name>Autor do livro 1056538</name>
+    <book>Titulo do livro 1056538</book>
+    <address>21937</address>
+  </writer>
+  <writer>
+    <code>2010567</code>
+    <name>Autor do livro 2010567</name>
+    <book>Titulo do livro 2010567</book>
+    <address>31925</address>
+  </writer>
+  <writer>
+    <code>1259136</code>
+    <name>Autor do livro 1259136</name>
+    <book>Titulo do livro 1259136</book>
+    <address>71996</address>
+  </writer>
+  <writer>
+    <code>2516060</code>
+    <name>Autor do livro 2516060</name>
+    <book>Titulo do livro 2516060</book>
+    <address>11960</address>
+  </writer>
+  <writer>
+    <code>1307696</code>
+    <name>Autor do livro 1307696</name>
+    <book>Titulo do livro 1307696</book>
+    <address>41976</address>
+  </writer>
+  <writer>
+    <code>2509410</code>
+    <name>Autor do livro 2509410</name>
+    <book>Titulo do livro 2509410</book>
+    <address>72012</address>
+  </writer>
+  <writer>
+    <code>3570097</code>
+    <name>Autor do livro 3570097</name>
+    <book>Titulo do livro 3570097</book>
+    <address>61917</address>
+  </writer>
+  <writer>
+    <code>3255538</code>
+    <name>Autor do livro 3255538</name>
+    <book>Titulo do livro 3255538</book>
+    <address>41977</address>
+  </writer>
+  <writer>
+    <code>1911785</code>
+    <name>Autor do livro 1911785</name>
+    <book>Titulo do livro 1911785</book>
+    <address>71912</address>
+  </writer>
+  <writer>
+    <code>2310158</code>
+    <name>Autor do livro 2310158</name>
+    <book>Titulo do livro 2310158</book>
+    <address>71919</address>
+  </writer>
+  <writer>
+    <code>3750420</code>
+    <name>Autor do livro 3750420</name>
+    <book>Titulo do livro 3750420</book>
+    <address>41899</address>
+  </writer>
+  <writer>
+    <code>3713053</code>
+    <name>Autor do livro 3713053</name>
+    <book>Titulo do livro 3713053</book>
+    <address>41896</address>
+  </writer>
+  <writer>
+    <code>2294966</code>
+    <name>Autor do livro 2294966</name>
+    <book>Titulo do livro 2294966</book>
+    <address>41904</address>
+  </writer>
+  <writer>
+    <code>2568015</code>
+    <name>Autor do livro 2568015</name>
+    <book>Titulo do livro 2568015</book>
+    <address>61944</address>
+  </writer>
+  <writer>
+    <code>1870172</code>
+    <name>Autor do livro 1870172</name>
+    <book>Titulo do livro 1870172</book>
+    <address>51965</address>
+  </writer>
+  <writer>
+    <code>1088111</code>
+    <name>Autor do livro 1088111</name>
+    <book>Titulo do livro 1088111</book>
+    <address>61943</address>
+  </writer>
+  <writer>
+    <code>2667706</code>
+    <name>Autor do livro 2667706</name>
+    <book>Titulo do livro 2667706</book>
+    <address>11897</address>
+  </writer>
+  <writer>
+    <code>3971989</code>
+    <name>Autor do livro 3971989</name>
+    <book>Titulo do livro 3971989</book>
+    <address>32001</address>
+  </writer>
+  <writer>
+    <code>2679267</code>
+    <name>Autor do livro 2679267</name>
+    <book>Titulo do livro 2679267</book>
+    <address>31895</address>
+  </writer>
+  <writer>
+    <code>2051482</code>
+    <name>Autor do livro 2051482</name>
+    <book>Titulo do livro 2051482</book>
+    <address>61967</address>
+  </writer>
+  <writer>
+    <code>1462018</code>
+    <name>Autor do livro 1462018</name>
+    <book>Titulo do livro 1462018</book>
+    <address>51950</address>
+  </writer>
+  <writer>
+    <code>2244805</code>
+    <name>Autor do livro 2244805</name>
+    <book>Titulo do livro 2244805</book>
+    <address>52007</address>
+  </writer>
+  <writer>
+    <code>2959777</code>
+    <name>Autor do livro 2959777</name>
+    <book>Titulo do livro 2959777</book>
+    <address>32002</address>
+  </writer>
+  <writer>
+    <code>2789585</code>
+    <name>Autor do livro 2789585</name>
+    <book>Titulo do livro 2789585</book>
+    <address>51941</address>
+  </writer>
+  <writer>
+    <code>1999117</code>
+    <name>Autor do livro 1999117</name>
+    <book>Titulo do livro 1999117</book>
+    <address>31907</address>
+  </writer>
+  <writer>
+    <code>2357575</code>
+    <name>Autor do livro 2357575</name>
+    <book>Titulo do livro 2357575</book>
+    <address>71986</address>
+  </writer>
+  <writer>
+    <code>2472461</code>
+    <name>Autor do livro 2472461</name>
+    <book>Titulo do livro 2472461</book>
+    <address>81995</address>
+  </writer>
+  <writer>
+    <code>2971577</code>
+    <name>Autor do livro 2971577</name>
+    <book>Titulo do livro 2971577</book>
+    <address>41974</address>
+  </writer>
+  <writer>
+    <code>2315182</code>
+    <name>Autor do livro 2315182</name>
+    <book>Titulo do livro 2315182</book>
+    <address>61973</address>
+  </writer>
+  <writer>
+    <code>1637087</code>
+    <name>Autor do livro 1637087</name>
+    <book>Titulo do livro 1637087</book>
+    <address>52011</address>
+  </writer>
+  <writer>
+    <code>3153299</code>
+    <name>Autor do livro 3153299</name>
+    <book>Titulo do livro 3153299</book>
+    <address>41995</address>
+  </writer>
+  <writer>
+    <code>2990957</code>
+    <name>Autor do livro 2990957</name>
+    <book>Titulo do livro 2990957</book>
+    <address>51943</address>
+  </writer>
+  <writer>
+    <code>2337336</code>
+    <name>Autor do livro 2337336</name>
+    <book>Titulo do livro 2337336</book>
+    <address>81937</address>
+  </writer>
+  <writer>
+    <code>2507937</code>
+    <name>Autor do livro 2507937</name>
+    <book>Titulo do livro 2507937</book>
+    <address>11912</address>
+  </writer>
+  <writer>
+    <code>2412615</code>
+    <name>Autor do livro 2412615</name>
+    <book>Titulo do livro 2412615</book>
+    <address>51957</address>
+  </writer>
+  <writer>
+    <code>3582423</code>
+    <name>Autor do livro 3582423</name>
+    <book>Titulo do livro 3582423</book>
+    <address>21984</address>
+  </writer>
+  <writer>
+    <code>3361784</code>
+    <name>Autor do livro 3361784</name>
+    <book>Titulo do livro 3361784</book>
+    <address>41980</address>
+  </writer>
+  <writer>
+    <code>3703407</code>
+    <name>Autor do livro 3703407</name>
+    <book>Titulo do livro 3703407</book>
+    <address>71898</address>
+  </writer>
+  <writer>
+    <code>2805061</code>
+    <name>Autor do livro 2805061</name>
+    <book>Titulo do livro 2805061</book>
+    <address>71902</address>
+  </writer>
+  <writer>
+    <code>3253499</code>
+    <name>Autor do livro 3253499</name>
+    <book>Titulo do livro 3253499</book>
+    <address>71994</address>
+  </writer>
+  <writer>
+    <code>1046465</code>
+    <name>Autor do livro 1046465</name>
+    <book>Titulo do livro 1046465</book>
+    <address>31927</address>
+  </writer>
+  <writer>
+    <code>2216086</code>
+    <name>Autor do livro 2216086</name>
+    <book>Titulo do livro 2216086</book>
+    <address>51935</address>
+  </writer>
+  <writer>
+    <code>3752847</code>
+    <name>Autor do livro 3752847</name>
+    <book>Titulo do livro 3752847</book>
+    <address>51894</address>
+  </writer>
+  <writer>
+    <code>3931459</code>
+    <name>Autor do livro 3931459</name>
+    <book>Titulo do livro 3931459</book>
+    <address>31912</address>
+  </writer>
+  <writer>
+    <code>1501008</code>
+    <name>Autor do livro 1501008</name>
+    <book>Titulo do livro 1501008</book>
+    <address>31890</address>
+  </writer>
+  <writer>
+    <code>1605087</code>
+    <name>Autor do livro 1605087</name>
+    <book>Titulo do livro 1605087</book>
+    <address>52004</address>
+  </writer>
+  <writer>
+    <code>3848508</code>
+    <name>Autor do livro 3848508</name>
+    <book>Titulo do livro 3848508</book>
+    <address>21934</address>
+  </writer>
+  <writer>
+    <code>2425384</code>
+    <name>Autor do livro 2425384</name>
+    <book>Titulo do livro 2425384</book>
+    <address>61991</address>
+  </writer>
+  <writer>
+    <code>2348454</code>
+    <name>Autor do livro 2348454</name>
+    <book>Titulo do livro 2348454</book>
+    <address>31992</address>
+  </writer>
+  <writer>
+    <code>3629827</code>
+    <name>Autor do livro 3629827</name>
+    <book>Titulo do livro 3629827</book>
+    <address>11959</address>
+  </writer>
+  <writer>
+    <code>1595771</code>
+    <name>Autor do livro 1595771</name>
+    <book>Titulo do livro 1595771</book>
+    <address>11981</address>
+  </writer>
+  <writer>
+    <code>3752109</code>
+    <name>Autor do livro 3752109</name>
+    <book>Titulo do livro 3752109</book>
+    <address>11988</address>
+  </writer>
+  <writer>
+    <code>3997680</code>
+    <name>Autor do livro 3997680</name>
+    <book>Titulo do livro 3997680</book>
+    <address>61957</address>
+  </writer>
+  <writer>
+    <code>1465045</code>
+    <name>Autor do livro 1465045</name>
+    <book>Titulo do livro 1465045</book>
+    <address>21954</address>
+  </writer>
+  <writer>
+    <code>3799499</code>
+    <name>Autor do livro 3799499</name>
+    <book>Titulo do livro 3799499</book>
+    <address>71912</address>
+  </writer>
+  <writer>
+    <code>2602877</code>
+    <name>Autor do livro 2602877</name>
+    <book>Titulo do livro 2602877</book>
+    <address>11909</address>
+  </writer>
+  <writer>
+    <code>3898125</code>
+    <name>Autor do livro 3898125</name>
+    <book>Titulo do livro 3898125</book>
+    <address>51964</address>
+  </writer>
+  <writer>
+    <code>3798108</code>
+    <name>Autor do livro 3798108</name>
+    <book>Titulo do livro 3798108</book>
+    <address>31991</address>
+  </writer>
+  <writer>
+    <code>3457063</code>
+    <name>Autor do livro 3457063</name>
+    <book>Titulo do livro 3457063</book>
+    <address>11976</address>
+  </writer>
+  <writer>
+    <code>1473133</code>
+    <name>Autor do livro 1473133</name>
+    <book>Titulo do livro 1473133</book>
+    <address>21953</address>
+  </writer>
+  <writer>
+    <code>2782542</code>
+    <name>Autor do livro 2782542</name>
+    <book>Titulo do livro 2782542</book>
+    <address>12004</address>
+  </writer>
+  <writer>
+    <code>2773024</code>
+    <name>Autor do livro 2773024</name>
+    <book>Titulo do livro 2773024</book>
+    <address>72005</address>
+  </writer>
+  <writer>
+    <code>3325734</code>
+    <name>Autor do livro 3325734</name>
+    <book>Titulo do livro 3325734</book>
+    <address>61948</address>
+  </writer>
+  <writer>
+    <code>1959711</code>
+    <name>Autor do livro 1959711</name>
+    <book>Titulo do livro 1959711</book>
+    <address>71969</address>
+  </writer>
+  <writer>
+    <code>1979344</code>
+    <name>Autor do livro 1979344</name>
+    <book>Titulo do livro 1979344</book>
+    <address>81901</address>
+  </writer>
+  <writer>
+    <code>3641583</code>
+    <name>Autor do livro 3641583</name>
+    <book>Titulo do livro 3641583</book>
+    <address>71967</address>
+  </writer>
+  <writer>
+    <code>2568075</code>
+    <name>Autor do livro 2568075</name>
+    <book>Titulo do livro 2568075</book>
+    <address>41955</address>
+  </writer>
+  <writer>
+    <code>1026302</code>
+    <name>Autor do livro 1026302</name>
+    <book>Titulo do livro 1026302</book>
+    <address>21949</address>
+  </writer>
+  <writer>
+    <code>2069655</code>
+    <name>Autor do livro 2069655</name>
+    <book>Titulo do livro 2069655</book>
+    <address>21909</address>
+  </writer>
+  <writer>
+    <code>3169851</code>
+    <name>Autor do livro 3169851</name>
+    <book>Titulo do livro 3169851</book>
+    <address>51956</address>
+  </writer>
+  <writer>
+    <code>1408780</code>
+    <name>Autor do livro 1408780</name>
+    <book>Titulo do livro 1408780</book>
+    <address>52011</address>
+  </writer>
+  <writer>
+    <code>2462461</code>
+    <name>Autor do livro 2462461</name>
+    <book>Titulo do livro 2462461</book>
+    <address>81956</address>
+  </writer>
+  <writer>
+    <code>3333335</code>
+    <name>Autor do livro 3333335</name>
+    <book>Titulo do livro 3333335</book>
+    <address>81897</address>
+  </writer>
+  <writer>
+    <code>2063329</code>
+    <name>Autor do livro 2063329</name>
+    <book>Titulo do livro 2063329</book>
+    <address>11977</address>
+  </writer>
+  <writer>
+    <code>3571937</code>
+    <name>Autor do livro 3571937</name>
+    <book>Titulo do livro 3571937</book>
+    <address>31937</address>
+  </writer>
+  <writer>
+    <code>2416943</code>
+    <name>Autor do livro 2416943</name>
+    <book>Titulo do livro 2416943</book>
+    <address>81990</address>
+  </writer>
+  <writer>
+    <code>2479819</code>
+    <name>Autor do livro 2479819</name>
+    <book>Titulo do livro 2479819</book>
+    <address>62012</address>
+  </writer>
+  <writer>
+    <code>2268980</code>
+    <name>Autor do livro 2268980</name>
+    <book>Titulo do livro 2268980</book>
+    <address>41927</address>
+  </writer>
+  <writer>
+    <code>2513234</code>
+    <name>Autor do livro 2513234</name>
+    <book>Titulo do livro 2513234</book>
+    <address>71940</address>
+  </writer>
+  <writer>
+    <code>2435500</code>
+    <name>Autor do livro 2435500</name>
+    <book>Titulo do livro 2435500</book>
+    <address>11969</address>
+  </writer>
+  <writer>
+    <code>2627439</code>
+    <name>Autor do livro 2627439</name>
+    <book>Titulo do livro 2627439</book>
+    <address>81964</address>
+  </writer>
+  <writer>
+    <code>3528892</code>
+    <name>Autor do livro 3528892</name>
+    <book>Titulo do livro 3528892</book>
+    <address>72000</address>
+  </writer>
+  <writer>
+    <code>3723990</code>
+    <name>Autor do livro 3723990</name>
+    <book>Titulo do livro 3723990</book>
+    <address>31958</address>
+  </writer>
+  <writer>
+    <code>1700239</code>
+    <name>Autor do livro 1700239</name>
+    <book>Titulo do livro 1700239</book>
+    <address>51974</address>
+  </writer>
+  <writer>
+    <code>1984733</code>
+    <name>Autor do livro 1984733</name>
+    <book>Titulo do livro 1984733</book>
+    <address>21983</address>
+  </writer>
+  <writer>
+    <code>2046137</code>
+    <name>Autor do livro 2046137</name>
+    <book>Titulo do livro 2046137</book>
+    <address>51897</address>
+  </writer>
+  <writer>
+    <code>3583332</code>
+    <name>Autor do livro 3583332</name>
+    <book>Titulo do livro 3583332</book>
+    <address>81956</address>
+  </writer>
+  <writer>
+    <code>2217656</code>
+    <name>Autor do livro 2217656</name>
+    <book>Titulo do livro 2217656</book>
+    <address>21991</address>
+  </writer>
+  <writer>
+    <code>1809771</code>
+    <name>Autor do livro 1809771</name>
+    <book>Titulo do livro 1809771</book>
+    <address>71906</address>
+  </writer>
+  <writer>
+    <code>1198859</code>
+    <name>Autor do livro 1198859</name>
+    <book>Titulo do livro 1198859</book>
+    <address>11903</address>
+  </writer>
+  <writer>
+    <code>2923032</code>
+    <name>Autor do livro 2923032</name>
+    <book>Titulo do livro 2923032</book>
+    <address>41976</address>
+  </writer>
+  <writer>
+    <code>1854669</code>
+    <name>Autor do livro 1854669</name>
+    <book>Titulo do livro 1854669</book>
+    <address>51937</address>
+  </writer>
+  <writer>
+    <code>1610351</code>
+    <name>Autor do livro 1610351</name>
+    <book>Titulo do livro 1610351</book>
+    <address>71977</address>
+  </writer>
+  <writer>
+    <code>1324104</code>
+    <name>Autor do livro 1324104</name>
+    <book>Titulo do livro 1324104</book>
+    <address>71952</address>
+  </writer>
+  <writer>
+    <code>2849856</code>
+    <name>Autor do livro 2849856</name>
+    <book>Titulo do livro 2849856</book>
+    <address>81973</address>
+  </writer>
+  <writer>
+    <code>3613169</code>
+    <name>Autor do livro 3613169</name>
+    <book>Titulo do livro 3613169</book>
+    <address>21983</address>
+  </writer>
+  <writer>
+    <code>2537026</code>
+    <name>Autor do livro 2537026</name>
+    <book>Titulo do livro 2537026</book>
+    <address>81908</address>
+  </writer>
+  <writer>
+    <code>3613591</code>
+    <name>Autor do livro 3613591</name>
+    <book>Titulo do livro 3613591</book>
+    <address>31956</address>
+  </writer>
+  <writer>
+    <code>1230560</code>
+    <name>Autor do livro 1230560</name>
+    <book>Titulo do livro 1230560</book>
+    <address>82008</address>
+  </writer>
+  <writer>
+    <code>2473043</code>
+    <name>Autor do livro 2473043</name>
+    <book>Titulo do livro 2473043</book>
+    <address>81965</address>
+  </writer>
+  <writer>
+    <code>3486352</code>
+    <name>Autor do livro 3486352</name>
+    <book>Titulo do livro 3486352</book>
+    <address>21975</address>
+  </writer>
+  <writer>
+    <code>1901500</code>
+    <name>Autor do livro 1901500</name>
+    <book>Titulo do livro 1901500</book>
+    <address>31926</address>
+  </writer>
+  <writer>
+    <code>1755585</code>
+    <name>Autor do livro 1755585</name>
+    <book>Titulo do livro 1755585</book>
+    <address>31908</address>
+  </writer>
+  <writer>
+    <code>2344127</code>
+    <name>Autor do livro 2344127</name>
+    <book>Titulo do livro 2344127</book>
+    <address>51898</address>
+  </writer>
+  <writer>
+    <code>2729637</code>
+    <name>Autor do livro 2729637</name>
+    <book>Titulo do livro 2729637</book>
+    <address>51970</address>
+  </writer>
+  <writer>
+    <code>3949775</code>
+    <name>Autor do livro 3949775</name>
+    <book>Titulo do livro 3949775</book>
+    <address>61890</address>
+  </writer>
+  <writer>
+    <code>1225129</code>
+    <name>Autor do livro 1225129</name>
+    <book>Titulo do livro 1225129</book>
+    <address>71937</address>
+  </writer>
+  <writer>
+    <code>1386944</code>
+    <name>Autor do livro 1386944</name>
+    <book>Titulo do livro 1386944</book>
+    <address>31930</address>
+  </writer>
+  <writer>
+    <code>3882713</code>
+    <name>Autor do livro 3882713</name>
+    <book>Titulo do livro 3882713</book>
+    <address>61924</address>
+  </writer>
+  <writer>
+    <code>3634628</code>
+    <name>Autor do livro 3634628</name>
+    <book>Titulo do livro 3634628</book>
+    <address>11899</address>
+  </writer>
+  <writer>
+    <code>3027126</code>
+    <name>Autor do livro 3027126</name>
+    <book>Titulo do livro 3027126</book>
+    <address>21971</address>
+  </writer>
+  <writer>
+    <code>1660958</code>
+    <name>Autor do livro 1660958</name>
+    <book>Titulo do livro 1660958</book>
+    <address>21949</address>
+  </writer>
+  <writer>
+    <code>1834058</code>
+    <name>Autor do livro 1834058</name>
+    <book>Titulo do livro 1834058</book>
+    <address>81937</address>
+  </writer>
+  <writer>
+    <code>2505578</code>
+    <name>Autor do livro 2505578</name>
+    <book>Titulo do livro 2505578</book>
+    <address>12012</address>
+  </writer>
+  <writer>
+    <code>3638665</code>
+    <name>Autor do livro 3638665</name>
+    <book>Titulo do livro 3638665</book>
+    <address>41909</address>
+  </writer>
+  <writer>
+    <code>3854545</code>
+    <name>Autor do livro 3854545</name>
+    <book>Titulo do livro 3854545</book>
+    <address>31976</address>
+  </writer>
+  <writer>
+    <code>1434827</code>
+    <name>Autor do livro 1434827</name>
+    <book>Titulo do livro 1434827</book>
+    <address>12002</address>
+  </writer>
+  <writer>
+    <code>3708062</code>
+    <name>Autor do livro 3708062</name>
+    <book>Titulo do livro 3708062</book>
+    <address>81986</address>
+  </writer>
+  <writer>
+    <code>2757526</code>
+    <name>Autor do livro 2757526</name>
+    <book>Titulo do livro 2757526</book>
+    <address>71989</address>
+  </writer>
+  <writer>
+    <code>1280292</code>
+    <name>Autor do livro 1280292</name>
+    <book>Titulo do livro 1280292</book>
+    <address>61979</address>
+  </writer>
+  <writer>
+    <code>1797143</code>
+    <name>Autor do livro 1797143</name>
+    <book>Titulo do livro 1797143</book>
+    <address>71923</address>
+  </writer>
+  <writer>
+    <code>3669985</code>
+    <name>Autor do livro 3669985</name>
+    <book>Titulo do livro 3669985</book>
+    <address>51890</address>
+  </writer>
+  <writer>
+    <code>3011378</code>
+    <name>Autor do livro 3011378</name>
+    <book>Titulo do livro 3011378</book>
+    <address>41942</address>
+  </writer>
+  <writer>
+    <code>2976509</code>
+    <name>Autor do livro 2976509</name>
+    <book>Titulo do livro 2976509</book>
+    <address>11906</address>
+  </writer>
+  <writer>
+    <code>1132468</code>
+    <name>Autor do livro 1132468</name>
+    <book>Titulo do livro 1132468</book>
+    <address>61943</address>
+  </writer>
+  <writer>
+    <code>1261358</code>
+    <name>Autor do livro 1261358</name>
+    <book>Titulo do livro 1261358</book>
+    <address>71989</address>
+  </writer>
+  <writer>
+    <code>3516372</code>
+    <name>Autor do livro 3516372</name>
+    <book>Titulo do livro 3516372</book>
+    <address>41895</address>
+  </writer>
+  <writer>
+    <code>1605996</code>
+    <name>Autor do livro 1605996</name>
+    <book>Titulo do livro 1605996</book>
+    <address>51915</address>
+  </writer>
+  <writer>
+    <code>3688491</code>
+    <name>Autor do livro 3688491</name>
+    <book>Titulo do livro 3688491</book>
+    <address>72011</address>
+  </writer>
+  <writer>
+    <code>1707991</code>
+    <name>Autor do livro 1707991</name>
+    <book>Titulo do livro 1707991</book>
+    <address>32012</address>
+  </writer>
+  <writer>
+    <code>3605931</code>
+    <name>Autor do livro 3605931</name>
+    <book>Titulo do livro 3605931</book>
+    <address>71944</address>
+  </writer>
+  <writer>
+    <code>1461074</code>
+    <name>Autor do livro 1461074</name>
+    <book>Titulo do livro 1461074</book>
+    <address>82005</address>
+  </writer>
+  <writer>
+    <code>3267597</code>
+    <name>Autor do livro 3267597</name>
+    <book>Titulo do livro 3267597</book>
+    <address>12002</address>
+  </writer>
+  <writer>
+    <code>1162069</code>
+    <name>Autor do livro 1162069</name>
+    <book>Titulo do livro 1162069</book>
+    <address>31895</address>
+  </writer>
+  <writer>
+    <code>1976357</code>
+    <name>Autor do livro 1976357</name>
+    <book>Titulo do livro 1976357</book>
+    <address>61918</address>
+  </writer>
+  <writer>
+    <code>3650008</code>
+    <name>Autor do livro 3650008</name>
+    <book>Titulo do livro 3650008</book>
+    <address>11927</address>
+  </writer>
+  <writer>
+    <code>3927096</code>
+    <name>Autor do livro 3927096</name>
+    <book>Titulo do livro 3927096</book>
+    <address>11898</address>
+  </writer>
+  <writer>
+    <code>3719527</code>
+    <name>Autor do livro 3719527</name>
+    <book>Titulo do livro 3719527</book>
+    <address>12002</address>
+  </writer>
+  <writer>
+    <code>1087862</code>
+    <name>Autor do livro 1087862</name>
+    <book>Titulo do livro 1087862</book>
+    <address>11935</address>
+  </writer>
+  <writer>
+    <code>3610920</code>
+    <name>Autor do livro 3610920</name>
+    <book>Titulo do livro 3610920</book>
+    <address>71970</address>
+  </writer>
+  <writer>
+    <code>3624792</code>
+    <name>Autor do livro 3624792</name>
+    <book>Titulo do livro 3624792</book>
+    <address>51912</address>
+  </writer>
+  <writer>
+    <code>1893308</code>
+    <name>Autor do livro 1893308</name>
+    <book>Titulo do livro 1893308</book>
+    <address>71958</address>
+  </writer>
+  <writer>
+    <code>2327895</code>
+    <name>Autor do livro 2327895</name>
+    <book>Titulo do livro 2327895</book>
+    <address>61909</address>
+  </writer>
+  <writer>
+    <code>1591850</code>
+    <name>Autor do livro 1591850</name>
+    <book>Titulo do livro 1591850</book>
+    <address>81934</address>
+  </writer>
+  <writer>
+    <code>3284541</code>
+    <name>Autor do livro 3284541</name>
+    <book>Titulo do livro 3284541</book>
+    <address>11899</address>
+  </writer>
+  <writer>
+    <code>2495891</code>
+    <name>Autor do livro 2495891</name>
+    <book>Titulo do livro 2495891</book>
+    <address>41929</address>
+  </writer>
+  <writer>
+    <code>2755670</code>
+    <name>Autor do livro 2755670</name>
+    <book>Titulo do livro 2755670</book>
+    <address>61973</address>
+  </writer>
+  <writer>
+    <code>1535083</code>
+    <name>Autor do livro 1535083</name>
+    <book>Titulo do livro 1535083</book>
+    <address>51948</address>
+  </writer>
+  <writer>
+    <code>2910927</code>
+    <name>Autor do livro 2910927</name>
+    <book>Titulo do livro 2910927</book>
+    <address>61893</address>
+  </writer>
+  <writer>
+    <code>3728170</code>
+    <name>Autor do livro 3728170</name>
+    <book>Titulo do livro 3728170</book>
+    <address>22005</address>
+  </writer>
+  <writer>
+    <code>3598267</code>
+    <name>Autor do livro 3598267</name>
+    <book>Titulo do livro 3598267</book>
+    <address>41900</address>
+  </writer>
+  <writer>
+    <code>3177894</code>
+    <name>Autor do livro 3177894</name>
+    <book>Titulo do livro 3177894</book>
+    <address>11959</address>
+  </writer>
+  <writer>
+    <code>2711433</code>
+    <name>Autor do livro 2711433</name>
+    <book>Titulo do livro 2711433</book>
+    <address>71978</address>
+  </writer>
+  <writer>
+    <code>3636268</code>
+    <name>Autor do livro 3636268</name>
+    <book>Titulo do livro 3636268</book>
+    <address>41917</address>
+  </writer>
+  <writer>
+    <code>1169617</code>
+    <name>Autor do livro 1169617</name>
+    <book>Titulo do livro 1169617</book>
+    <address>71890</address>
+  </writer>
+  <writer>
+    <code>2470478</code>
+    <name>Autor do livro 2470478</name>
+    <book>Titulo do livro 2470478</book>
+    <address>31961</address>
+  </writer>
+  <writer>
+    <code>2401214</code>
+    <name>Autor do livro 2401214</name>
+    <book>Titulo do livro 2401214</book>
+    <address>41926</address>
+  </writer>
+  <writer>
+    <code>1609926</code>
+    <name>Autor do livro 1609926</name>
+    <book>Titulo do livro 1609926</book>
+    <address>21926</address>
+  </writer>
+  <writer>
+    <code>1368235</code>
+    <name>Autor do livro 1368235</name>
+    <book>Titulo do livro 1368235</book>
+    <address>41900</address>
+  </writer>
+  <writer>
+    <code>3165627</code>
+    <name>Autor do livro 3165627</name>
+    <book>Titulo do livro 3165627</book>
+    <address>11989</address>
+  </writer>
+  <writer>
+    <code>2455401</code>
+    <name>Autor do livro 2455401</name>
+    <book>Titulo do livro 2455401</book>
+    <address>71899</address>
+  </writer>
+  <writer>
+    <code>2031557</code>
+    <name>Autor do livro 2031557</name>
+    <book>Titulo do livro 2031557</book>
+    <address>61967</address>
+  </writer>
+  <writer>
+    <code>1946159</code>
+    <name>Autor do livro 1946159</name>
+    <book>Titulo do livro 1946159</book>
+    <address>71900</address>
+  </writer>
+  <writer>
+    <code>3612615</code>
+    <name>Autor do livro 3612615</name>
+    <book>Titulo do livro 3612615</book>
+    <address>31959</address>
+  </writer>
+  <writer>
+    <code>2547591</code>
+    <name>Autor do livro 2547591</name>
+    <book>Titulo do livro 2547591</book>
+    <address>71985</address>
+  </writer>
+  <writer>
+    <code>3832732</code>
+    <name>Autor do livro 3832732</name>
+    <book>Titulo do livro 3832732</book>
+    <address>31922</address>
+  </writer>
+  <writer>
+    <code>3344500</code>
+    <name>Autor do livro 3344500</name>
+    <book>Titulo do livro 3344500</book>
+    <address>41919</address>
+  </writer>
+  <writer>
+    <code>3719845</code>
+    <name>Autor do livro 3719845</name>
+    <book>Titulo do livro 3719845</book>
+    <address>11975</address>
+  </writer>
+  <writer>
+    <code>2179013</code>
+    <name>Autor do livro 2179013</name>
+    <book>Titulo do livro 2179013</book>
+    <address>41900</address>
+  </writer>
+  <writer>
+    <code>1404887</code>
+    <name>Autor do livro 1404887</name>
+    <book>Titulo do livro 1404887</book>
+    <address>31968</address>
+  </writer>
+  <writer>
+    <code>3131099</code>
+    <name>Autor do livro 3131099</name>
+    <book>Titulo do livro 3131099</book>
+    <address>12000</address>
+  </writer>
+  <writer>
+    <code>1522977</code>
+    <name>Autor do livro 1522977</name>
+    <book>Titulo do livro 1522977</book>
+    <address>31894</address>
+  </writer>
+  <writer>
+    <code>3191348</code>
+    <name>Autor do livro 3191348</name>
+    <book>Titulo do livro 3191348</book>
+    <address>31928</address>
+  </writer>
+  <writer>
+    <code>2008098</code>
+    <name>Autor do livro 2008098</name>
+    <book>Titulo do livro 2008098</book>
+    <address>71991</address>
+  </writer>
+  <writer>
+    <code>1478576</code>
+    <name>Autor do livro 1478576</name>
+    <book>Titulo do livro 1478576</book>
+    <address>51988</address>
+  </writer>
+  <writer>
+    <code>3765154</code>
+    <name>Autor do livro 3765154</name>
+    <book>Titulo do livro 3765154</book>
+    <address>81896</address>
+  </writer>
+  <writer>
+    <code>2672480</code>
+    <name>Autor do livro 2672480</name>
+    <book>Titulo do livro 2672480</book>
+    <address>51968</address>
+  </writer>
+  <writer>
+    <code>2723898</code>
+    <name>Autor do livro 2723898</name>
+    <book>Titulo do livro 2723898</book>
+    <address>81996</address>
+  </writer>
+  <writer>
+    <code>1520020</code>
+    <name>Autor do livro 1520020</name>
+    <book>Titulo do livro 1520020</book>
+    <address>42006</address>
+  </writer>
+  <writer>
+    <code>3531353</code>
+    <name>Autor do livro 3531353</name>
+    <book>Titulo do livro 3531353</book>
+    <address>71978</address>
+  </writer>
+  <writer>
+    <code>1777998</code>
+    <name>Autor do livro 1777998</name>
+    <book>Titulo do livro 1777998</book>
+    <address>21991</address>
+  </writer>
+  <writer>
+    <code>2227081</code>
+    <name>Autor do livro 2227081</name>
+    <book>Titulo do livro 2227081</book>
+    <address>61966</address>
+  </writer>
+  <writer>
+    <code>2929415</code>
+    <name>Autor do livro 2929415</name>
+    <book>Titulo do livro 2929415</book>
+    <address>71940</address>
+  </writer>
+  <writer>
+    <code>2288209</code>
+    <name>Autor do livro 2288209</name>
+    <book>Titulo do livro 2288209</book>
+    <address>21966</address>
+  </writer>
+  <writer>
+    <code>1417346</code>
+    <name>Autor do livro 1417346</name>
+    <book>Titulo do livro 1417346</book>
+    <address>72007</address>
+  </writer>
+  <writer>
+    <code>3627210</code>
+    <name>Autor do livro 3627210</name>
+    <book>Titulo do livro 3627210</book>
+    <address>11894</address>
+  </writer>
+  <writer>
+    <code>3586560</code>
+    <name>Autor do livro 3586560</name>
+    <book>Titulo do livro 3586560</book>
+    <address>71891</address>
+  </writer>
+  <writer>
+    <code>2897521</code>
+    <name>Autor do livro 2897521</name>
+    <book>Titulo do livro 2897521</book>
+    <address>31931</address>
+  </writer>
+  <writer>
+    <code>3692614</code>
+    <name>Autor do livro 3692614</name>
+    <book>Titulo do livro 3692614</book>
+    <address>11944</address>
+  </writer>
+  <writer>
+    <code>1502646</code>
+    <name>Autor do livro 1502646</name>
+    <book>Titulo do livro 1502646</book>
+    <address>61912</address>
+  </writer>
+  <writer>
+    <code>2725312</code>
+    <name>Autor do livro 2725312</name>
+    <book>Titulo do livro 2725312</book>
+    <address>71977</address>
+  </writer>
+  <writer>
+    <code>2783029</code>
+    <name>Autor do livro 2783029</name>
+    <book>Titulo do livro 2783029</book>
+    <address>61913</address>
+  </writer>
+  <writer>
+    <code>3882472</code>
+    <name>Autor do livro 3882472</name>
+    <book>Titulo do livro 3882472</book>
+    <address>41930</address>
+  </writer>
+  <writer>
+    <code>3722785</code>
+    <name>Autor do livro 3722785</name>
+    <book>Titulo do livro 3722785</book>
+    <address>51911</address>
+  </writer>
+  <writer>
+    <code>2124178</code>
+    <name>Autor do livro 2124178</name>
+    <book>Titulo do livro 2124178</book>
+    <address>81961</address>
+  </writer>
+  <writer>
+    <code>3286427</code>
+    <name>Autor do livro 3286427</name>
+    <book>Titulo do livro 3286427</book>
+    <address>51926</address>
+  </writer>
+  <writer>
+    <code>2025554</code>
+    <name>Autor do livro 2025554</name>
+    <book>Titulo do livro 2025554</book>
+    <address>51922</address>
+  </writer>
+  <writer>
+    <code>3578979</code>
+    <name>Autor do livro 3578979</name>
+    <book>Titulo do livro 3578979</book>
+    <address>21929</address>
+  </writer>
+  <writer>
+    <code>2653334</code>
+    <name>Autor do livro 2653334</name>
+    <book>Titulo do livro 2653334</book>
+    <address>41969</address>
+  </writer>
+  <writer>
+    <code>3021093</code>
+    <name>Autor do livro 3021093</name>
+    <book>Titulo do livro 3021093</book>
+    <address>71967</address>
+  </writer>
+  <writer>
+    <code>3239580</code>
+    <name>Autor do livro 3239580</name>
+    <book>Titulo do livro 3239580</book>
+    <address>81892</address>
+  </writer>
+  <writer>
+    <code>2695776</code>
+    <name>Autor do livro 2695776</name>
+    <book>Titulo do livro 2695776</book>
+    <address>11919</address>
+  </writer>
+  <writer>
+    <code>3022447</code>
+    <name>Autor do livro 3022447</name>
+    <book>Titulo do livro 3022447</book>
+    <address>21984</address>
+  </writer>
+  <writer>
+    <code>3210507</code>
+    <name>Autor do livro 3210507</name>
+    <book>Titulo do livro 3210507</book>
+    <address>31913</address>
+  </writer>
+  <writer>
+    <code>2874294</code>
+    <name>Autor do livro 2874294</name>
+    <book>Titulo do livro 2874294</book>
+    <address>31984</address>
+  </writer>
+  <writer>
+    <code>3344126</code>
+    <name>Autor do livro 3344126</name>
+    <book>Titulo do livro 3344126</book>
+    <address>31951</address>
+  </writer>
+  <writer>
+    <code>3874634</code>
+    <name>Autor do livro 3874634</name>
+    <book>Titulo do livro 3874634</book>
+    <address>21939</address>
+  </writer>
+  <writer>
+    <code>3150668</code>
+    <name>Autor do livro 3150668</name>
+    <book>Titulo do livro 3150668</book>
+    <address>21955</address>
+  </writer>
+  <writer>
+    <code>3425443</code>
+    <name>Autor do livro 3425443</name>
+    <book>Titulo do livro 3425443</book>
+    <address>21944</address>
+  </writer>
+  <writer>
+    <code>2538165</code>
+    <name>Autor do livro 2538165</name>
+    <book>Titulo do livro 2538165</book>
+    <address>51949</address>
+  </writer>
+  <writer>
+    <code>1545750</code>
+    <name>Autor do livro 1545750</name>
+    <book>Titulo do livro 1545750</book>
+    <address>21917</address>
+  </writer>
+  <writer>
+    <code>3247848</code>
+    <name>Autor do livro 3247848</name>
+    <book>Titulo do livro 3247848</book>
+    <address>32010</address>
+  </writer>
+  <writer>
+    <code>3780985</code>
+    <name>Autor do livro 3780985</name>
+    <book>Titulo do livro 3780985</book>
+    <address>41923</address>
+  </writer>
+  <writer>
+    <code>2822125</code>
+    <name>Autor do livro 2822125</name>
+    <book>Titulo do livro 2822125</book>
+    <address>61917</address>
+  </writer>
+  <writer>
+    <code>3860883</code>
+    <name>Autor do livro 3860883</name>
+    <book>Titulo do livro 3860883</book>
+    <address>41999</address>
+  </writer>
+  <writer>
+    <code>1904848</code>
+    <name>Autor do livro 1904848</name>
+    <book>Titulo do livro 1904848</book>
+    <address>61895</address>
+  </writer>
+  <writer>
+    <code>2656271</code>
+    <name>Autor do livro 2656271</name>
+    <book>Titulo do livro 2656271</book>
+    <address>71997</address>
+  </writer>
+  <writer>
+    <code>3732623</code>
+    <name>Autor do livro 3732623</name>
+    <book>Titulo do livro 3732623</book>
+    <address>71908</address>
+  </writer>
+  <writer>
+    <code>1466262</code>
+    <name>Autor do livro 1466262</name>
+    <book>Titulo do livro 1466262</book>
+    <address>32005</address>
+  </writer>
+  <writer>
+    <code>2642324</code>
+    <name>Autor do livro 2642324</name>
+    <book>Titulo do livro 2642324</book>
+    <address>41940</address>
+  </writer>
+  <writer>
+    <code>2417567</code>
+    <name>Autor do livro 2417567</name>
+    <book>Titulo do livro 2417567</book>
+    <address>41918</address>
+  </writer>
+  <writer>
+    <code>2217541</code>
+    <name>Autor do livro 2217541</name>
+    <book>Titulo do livro 2217541</book>
+    <address>82011</address>
+  </writer>
+  <writer>
+    <code>2208977</code>
+    <name>Autor do livro 2208977</name>
+    <book>Titulo do livro 2208977</book>
+    <address>51973</address>
+  </writer>
+  <writer>
+    <code>2150030</code>
+    <name>Autor do livro 2150030</name>
+    <book>Titulo do livro 2150030</book>
+    <address>61923</address>
+  </writer>
+  <writer>
+    <code>2867325</code>
+    <name>Autor do livro 2867325</name>
+    <book>Titulo do livro 2867325</book>
+    <address>51939</address>
+  </writer>
+  <writer>
+    <code>1064700</code>
+    <name>Autor do livro 1064700</name>
+    <book>Titulo do livro 1064700</book>
+    <address>31978</address>
+  </writer>
+  <writer>
+    <code>2389966</code>
+    <name>Autor do livro 2389966</name>
+    <book>Titulo do livro 2389966</book>
+    <address>71921</address>
+  </writer>
+  <writer>
+    <code>3426252</code>
+    <name>Autor do livro 3426252</name>
+    <book>Titulo do livro 3426252</book>
+    <address>41990</address>
+  </writer>
+  <writer>
+    <code>1415792</code>
+    <name>Autor do livro 1415792</name>
+    <book>Titulo do livro 1415792</book>
+    <address>11970</address>
+  </writer>
+  <writer>
+    <code>1315287</code>
+    <name>Autor do livro 1315287</name>
+    <book>Titulo do livro 1315287</book>
+    <address>51977</address>
+  </writer>
+  <writer>
+    <code>2021309</code>
+    <name>Autor do livro 2021309</name>
+    <book>Titulo do livro 2021309</book>
+    <address>61993</address>
+  </writer>
+  <writer>
+    <code>2440296</code>
+    <name>Autor do livro 2440296</name>
+    <book>Titulo do livro 2440296</book>
+    <address>51980</address>
+  </writer>
+  <writer>
+    <code>2578194</code>
+    <name>Autor do livro 2578194</name>
+    <book>Titulo do livro 2578194</book>
+    <address>71985</address>
+  </writer>
+  <writer>
+    <code>2771955</code>
+    <name>Autor do livro 2771955</name>
+    <book>Titulo do livro 2771955</book>
+    <address>61969</address>
+  </writer>
+  <writer>
+    <code>2632931</code>
+    <name>Autor do livro 2632931</name>
+    <book>Titulo do livro 2632931</book>
+    <address>42000</address>
+  </writer>
+  <writer>
+    <code>2084482</code>
+    <name>Autor do livro 2084482</name>
+    <book>Titulo do livro 2084482</book>
+    <address>71890</address>
+  </writer>
+  <writer>
+    <code>3120812</code>
+    <name>Autor do livro 3120812</name>
+    <book>Titulo do livro 3120812</book>
+    <address>41953</address>
+  </writer>
+  <writer>
+    <code>2724276</code>
+    <name>Autor do livro 2724276</name>
+    <book>Titulo do livro 2724276</book>
+    <address>71911</address>
+  </writer>
+  <writer>
+    <code>1670112</code>
+    <name>Autor do livro 1670112</name>
+    <book>Titulo do livro 1670112</book>
+    <address>31896</address>
+  </writer>
+  <writer>
+    <code>1682502</code>
+    <name>Autor do livro 1682502</name>
+    <book>Titulo do livro 1682502</book>
+    <address>51922</address>
+  </writer>
+  <writer>
+    <code>1944294</code>
+    <name>Autor do livro 1944294</name>
+    <book>Titulo do livro 1944294</book>
+    <address>71981</address>
+  </writer>
+  <writer>
+    <code>2552589</code>
+    <name>Autor do livro 2552589</name>
+    <book>Titulo do livro 2552589</book>
+    <address>81992</address>
+  </writer>
+  <writer>
+    <code>1457669</code>
+    <name>Autor do livro 1457669</name>
+    <book>Titulo do livro 1457669</book>
+    <address>61901</address>
+  </writer>
+  <writer>
+    <code>2953942</code>
+    <name>Autor do livro 2953942</name>
+    <book>Titulo do livro 2953942</book>
+    <address>81909</address>
+  </writer>
+  <writer>
+    <code>1537851</code>
+    <name>Autor do livro 1537851</name>
+    <book>Titulo do livro 1537851</book>
+    <address>31954</address>
+  </writer>
+  <writer>
+    <code>1358432</code>
+    <name>Autor do livro 1358432</name>
+    <book>Titulo do livro 1358432</book>
+    <address>22003</address>
+  </writer>
+  <writer>
+    <code>1873924</code>
+    <name>Autor do livro 1873924</name>
+    <book>Titulo do livro 1873924</book>
+    <address>41988</address>
+  </writer>
+  <writer>
+    <code>2394023</code>
+    <name>Autor do livro 2394023</name>
+    <book>Titulo do livro 2394023</book>
+    <address>41909</address>
+  </writer>
+  <writer>
+    <code>3550393</code>
+    <name>Autor do livro 3550393</name>
+    <book>Titulo do livro 3550393</book>
+    <address>71981</address>
+  </writer>
+  <writer>
+    <code>3439235</code>
+    <name>Autor do livro 3439235</name>
+    <book>Titulo do livro 3439235</book>
+    <address>81969</address>
+  </writer>
+  <writer>
+    <code>2192486</code>
+    <name>Autor do livro 2192486</name>
+    <book>Titulo do livro 2192486</book>
+    <address>31988</address>
+  </writer>
+  <writer>
+    <code>1353139</code>
+    <name>Autor do livro 1353139</name>
+    <book>Titulo do livro 1353139</book>
+    <address>11963</address>
+  </writer>
+  <writer>
+    <code>1185033</code>
+    <name>Autor do livro 1185033</name>
+    <book>Titulo do livro 1185033</book>
+    <address>81956</address>
+  </writer>
+  <writer>
+    <code>3557930</code>
+    <name>Autor do livro 3557930</name>
+    <book>Titulo do livro 3557930</book>
+    <address>41968</address>
+  </writer>
+  <writer>
+    <code>1526197</code>
+    <name>Autor do livro 1526197</name>
+    <book>Titulo do livro 1526197</book>
+    <address>11905</address>
+  </writer>
+  <writer>
+    <code>3238776</code>
+    <name>Autor do livro 3238776</name>
+    <book>Titulo do livro 3238776</book>
+    <address>11903</address>
+  </writer>
+  <writer>
+    <code>3128466</code>
+    <name>Autor do livro 3128466</name>
+    <book>Titulo do livro 3128466</book>
+    <address>61981</address>
+  </writer>
+  <writer>
+    <code>3755188</code>
+    <name>Autor do livro 3755188</name>
+    <book>Titulo do livro 3755188</book>
+    <address>51924</address>
+  </writer>
+  <writer>
+    <code>1326888</code>
+    <name>Autor do livro 1326888</name>
+    <book>Titulo do livro 1326888</book>
+    <address>71954</address>
+  </writer>
+  <writer>
+    <code>2518828</code>
+    <name>Autor do livro 2518828</name>
+    <book>Titulo do livro 2518828</book>
+    <address>12003</address>
+  </writer>
+  <writer>
+    <code>2569014</code>
+    <name>Autor do livro 2569014</name>
+    <book>Titulo do livro 2569014</book>
+    <address>31993</address>
+  </writer>
+  <writer>
+    <code>1689398</code>
+    <name>Autor do livro 1689398</name>
+    <book>Titulo do livro 1689398</book>
+    <address>31932</address>
+  </writer>
+  <writer>
+    <code>1744095</code>
+    <name>Autor do livro 1744095</name>
+    <book>Titulo do livro 1744095</book>
+    <address>11975</address>
+  </writer>
+  <writer>
+    <code>3484734</code>
+    <name>Autor do livro 3484734</name>
+    <book>Titulo do livro 3484734</book>
+    <address>31967</address>
+  </writer>
+  <writer>
+    <code>1395982</code>
+    <name>Autor do livro 1395982</name>
+    <book>Titulo do livro 1395982</book>
+    <address>31917</address>
+  </writer>
+  <writer>
+    <code>1804298</code>
+    <name>Autor do livro 1804298</name>
+    <book>Titulo do livro 1804298</book>
+    <address>71957</address>
+  </writer>
+  <writer>
+    <code>3242522</code>
+    <name>Autor do livro 3242522</name>
+    <book>Titulo do livro 3242522</book>
+    <address>61972</address>
+  </writer>
+  <writer>
+    <code>2947711</code>
+    <name>Autor do livro 2947711</name>
+    <book>Titulo do livro 2947711</book>
+    <address>61941</address>
+  </writer>
+  <writer>
+    <code>2157109</code>
+    <name>Autor do livro 2157109</name>
+    <book>Titulo do livro 2157109</book>
+    <address>11979</address>
+  </writer>
+  <writer>
+    <code>1473181</code>
+    <name>Autor do livro 1473181</name>
+    <book>Titulo do livro 1473181</book>
+    <address>71996</address>
+  </writer>
+  <writer>
+    <code>1171340</code>
+    <name>Autor do livro 1171340</name>
+    <book>Titulo do livro 1171340</book>
+    <address>41911</address>
+  </writer>
+  <writer>
+    <code>3814152</code>
+    <name>Autor do livro 3814152</name>
+    <book>Titulo do livro 3814152</book>
+    <address>51938</address>
+  </writer>
+  <writer>
+    <code>1352248</code>
+    <name>Autor do livro 1352248</name>
+    <book>Titulo do livro 1352248</book>
+    <address>61989</address>
+  </writer>
+  <writer>
+    <code>2296978</code>
+    <name>Autor do livro 2296978</name>
+    <book>Titulo do livro 2296978</book>
+    <address>81908</address>
+  </writer>
+  <writer>
+    <code>3831477</code>
+    <name>Autor do livro 3831477</name>
+    <book>Titulo do livro 3831477</book>
+    <address>61954</address>
+  </writer>
+  <writer>
+    <code>1287713</code>
+    <name>Autor do livro 1287713</name>
+    <book>Titulo do livro 1287713</book>
+    <address>41972</address>
+  </writer>
+  <writer>
+    <code>3297591</code>
+    <name>Autor do livro 3297591</name>
+    <book>Titulo do livro 3297591</book>
+    <address>81978</address>
+  </writer>
+  <writer>
+    <code>2379446</code>
+    <name>Autor do livro 2379446</name>
+    <book>Titulo do livro 2379446</book>
+    <address>51943</address>
+  </writer>
+  <writer>
+    <code>3758063</code>
+    <name>Autor do livro 3758063</name>
+    <book>Titulo do livro 3758063</book>
+    <address>42011</address>
+  </writer>
+  <writer>
+    <code>3829176</code>
+    <name>Autor do livro 3829176</name>
+    <book>Titulo do livro 3829176</book>
+    <address>61962</address>
+  </writer>
+  <writer>
+    <code>1149373</code>
+    <name>Autor do livro 1149373</name>
+    <book>Titulo do livro 1149373</book>
+    <address>51960</address>
+  </writer>
+  <writer>
+    <code>2246564</code>
+    <name>Autor do livro 2246564</name>
+    <book>Titulo do livro 2246564</book>
+    <address>31946</address>
+  </writer>
+  <writer>
+    <code>3704709</code>
+    <name>Autor do livro 3704709</name>
+    <book>Titulo do livro 3704709</book>
+    <address>31996</address>
+  </writer>
+  <writer>
+    <code>3551974</code>
+    <name>Autor do livro 3551974</name>
+    <book>Titulo do livro 3551974</book>
+    <address>61917</address>
+  </writer>
+  <writer>
+    <code>2661605</code>
+    <name>Autor do livro 2661605</name>
+    <book>Titulo do livro 2661605</book>
+    <address>31999</address>
+  </writer>
+  <writer>
+    <code>2651744</code>
+    <name>Autor do livro 2651744</name>
+    <book>Titulo do livro 2651744</book>
+    <address>71976</address>
+  </writer>
+  <writer>
+    <code>2874618</code>
+    <name>Autor do livro 2874618</name>
+    <book>Titulo do livro 2874618</book>
+    <address>32003</address>
+  </writer>
+  <writer>
+    <code>1323965</code>
+    <name>Autor do livro 1323965</name>
+    <book>Titulo do livro 1323965</book>
+    <address>81962</address>
+  </writer>
+  <writer>
+    <code>1001072</code>
+    <name>Autor do livro 1001072</name>
+    <book>Titulo do livro 1001072</book>
+    <address>21963</address>
+  </writer>
+  <writer>
+    <code>3343354</code>
+    <name>Autor do livro 3343354</name>
+    <book>Titulo do livro 3343354</book>
+    <address>21954</address>
+  </writer>
+  <writer>
+    <code>2668557</code>
+    <name>Autor do livro 2668557</name>
+    <book>Titulo do livro 2668557</book>
+    <address>71912</address>
+  </writer>
+  <writer>
+    <code>3407093</code>
+    <name>Autor do livro 3407093</name>
+    <book>Titulo do livro 3407093</book>
+    <address>71978</address>
+  </writer>
+  <writer>
+    <code>3489621</code>
+    <name>Autor do livro 3489621</name>
+    <book>Titulo do livro 3489621</book>
+    <address>81919</address>
+  </writer>
+  <writer>
+    <code>2386290</code>
+    <name>Autor do livro 2386290</name>
+    <book>Titulo do livro 2386290</book>
+    <address>41963</address>
+  </writer>
+  <writer>
+    <code>2989786</code>
+    <name>Autor do livro 2989786</name>
+    <book>Titulo do livro 2989786</book>
+    <address>61899</address>
+  </writer>
+  <writer>
+    <code>2938723</code>
+    <name>Autor do livro 2938723</name>
+    <book>Titulo do livro 2938723</book>
+    <address>61912</address>
+  </writer>
+  <writer>
+    <code>2151198</code>
+    <name>Autor do livro 2151198</name>
+    <book>Titulo do livro 2151198</book>
+    <address>22009</address>
+  </writer>
+  <writer>
+    <code>3560014</code>
+    <name>Autor do livro 3560014</name>
+    <book>Titulo do livro 3560014</book>
+    <address>31903</address>
+  </writer>
+  <writer>
+    <code>3312754</code>
+    <name>Autor do livro 3312754</name>
+    <book>Titulo do livro 3312754</book>
+    <address>41940</address>
+  </writer>
+  <writer>
+    <code>2569668</code>
+    <name>Autor do livro 2569668</name>
+    <book>Titulo do livro 2569668</book>
+    <address>41979</address>
+  </writer>
+  <writer>
+    <code>3678570</code>
+    <name>Autor do livro 3678570</name>
+    <book>Titulo do livro 3678570</book>
+    <address>41982</address>
+  </writer>
+  <writer>
+    <code>1267646</code>
+    <name>Autor do livro 1267646</name>
+    <book>Titulo do livro 1267646</book>
+    <address>61965</address>
+  </writer>
+  <writer>
+    <code>3590792</code>
+    <name>Autor do livro 3590792</name>
+    <book>Titulo do livro 3590792</book>
+    <address>71999</address>
+  </writer>
+  <writer>
+    <code>3524995</code>
+    <name>Autor do livro 3524995</name>
+    <book>Titulo do livro 3524995</book>
+    <address>12010</address>
+  </writer>
+  <writer>
+    <code>2618335</code>
+    <name>Autor do livro 2618335</name>
+    <book>Titulo do livro 2618335</book>
+    <address>32002</address>
+  </writer>
+  <writer>
+    <code>2743604</code>
+    <name>Autor do livro 2743604</name>
+    <book>Titulo do livro 2743604</book>
+    <address>41996</address>
+  </writer>
+  <writer>
+    <code>3480332</code>
+    <name>Autor do livro 3480332</name>
+    <book>Titulo do livro 3480332</book>
+    <address>61945</address>
+  </writer>
+  <writer>
+    <code>2939794</code>
+    <name>Autor do livro 2939794</name>
+    <book>Titulo do livro 2939794</book>
+    <address>11927</address>
+  </writer>
+  <writer>
+    <code>3471865</code>
+    <name>Autor do livro 3471865</name>
+    <book>Titulo do livro 3471865</book>
+    <address>51995</address>
+  </writer>
+  <writer>
+    <code>1908395</code>
+    <name>Autor do livro 1908395</name>
+    <book>Titulo do livro 1908395</book>
+    <address>71907</address>
+  </writer>
+  <writer>
+    <code>2157941</code>
+    <name>Autor do livro 2157941</name>
+    <book>Titulo do livro 2157941</book>
+    <address>52009</address>
+  </writer>
+  <writer>
+    <code>2182507</code>
+    <name>Autor do livro 2182507</name>
+    <book>Titulo do livro 2182507</book>
+    <address>61934</address>
+  </writer>
+  <writer>
+    <code>2142757</code>
+    <name>Autor do livro 2142757</name>
+    <book>Titulo do livro 2142757</book>
+    <address>81928</address>
+  </writer>
+  <writer>
+    <code>2869382</code>
+    <name>Autor do livro 2869382</name>
+    <book>Titulo do livro 2869382</book>
+    <address>41977</address>
+  </writer>
+  <writer>
+    <code>1212437</code>
+    <name>Autor do livro 1212437</name>
+    <book>Titulo do livro 1212437</book>
+    <address>12011</address>
+  </writer>
+  <writer>
+    <code>3391165</code>
+    <name>Autor do livro 3391165</name>
+    <book>Titulo do livro 3391165</book>
+    <address>11942</address>
+  </writer>
+  <writer>
+    <code>3755406</code>
+    <name>Autor do livro 3755406</name>
+    <book>Titulo do livro 3755406</book>
+    <address>21984</address>
+  </writer>
+  <writer>
+    <code>3095651</code>
+    <name>Autor do livro 3095651</name>
+    <book>Titulo do livro 3095651</book>
+    <address>41906</address>
+  </writer>
+  <writer>
+    <code>1617733</code>
+    <name>Autor do livro 1617733</name>
+    <book>Titulo do livro 1617733</book>
+    <address>42001</address>
+  </writer>
+  <writer>
+    <code>2577262</code>
+    <name>Autor do livro 2577262</name>
+    <book>Titulo do livro 2577262</book>
+    <address>21933</address>
+  </writer>
+  <writer>
+    <code>2126279</code>
+    <name>Autor do livro 2126279</name>
+    <book>Titulo do livro 2126279</book>
+    <address>51892</address>
+  </writer>
+  <writer>
+    <code>1792672</code>
+    <name>Autor do livro 1792672</name>
+    <book>Titulo do livro 1792672</book>
+    <address>61957</address>
+  </writer>
+  <writer>
+    <code>3591778</code>
+    <name>Autor do livro 3591778</name>
+    <book>Titulo do livro 3591778</book>
+    <address>82006</address>
+  </writer>
+  <writer>
+    <code>3933236</code>
+    <name>Autor do livro 3933236</name>
+    <book>Titulo do livro 3933236</book>
+    <address>51972</address>
+  </writer>
+  <writer>
+    <code>1763770</code>
+    <name>Autor do livro 1763770</name>
+    <book>Titulo do livro 1763770</book>
+    <address>11987</address>
+  </writer>
+  <writer>
+    <code>2083486</code>
+    <name>Autor do livro 2083486</name>
+    <book>Titulo do livro 2083486</book>
+    <address>82011</address>
+  </writer>
+  <writer>
+    <code>3791290</code>
+    <name>Autor do livro 3791290</name>
+    <book>Titulo do livro 3791290</book>
+    <address>12010</address>
+  </writer>
+  <writer>
+    <code>1673691</code>
+    <name>Autor do livro 1673691</name>
+    <book>Titulo do livro 1673691</book>
+    <address>32004</address>
+  </writer>
+  <writer>
+    <code>1412837</code>
+    <name>Autor do livro 1412837</name>
+    <book>Titulo do livro 1412837</book>
+    <address>71970</address>
+  </writer>
+  <writer>
+    <code>3491304</code>
+    <name>Autor do livro 3491304</name>
+    <book>Titulo do livro 3491304</book>
+    <address>81967</address>
+  </writer>
+  <writer>
+    <code>3329061</code>
+    <name>Autor do livro 3329061</name>
+    <book>Titulo do livro 3329061</book>
+    <address>21914</address>
+  </writer>
+  <writer>
+    <code>3729598</code>
+    <name>Autor do livro 3729598</name>
+    <book>Titulo do livro 3729598</book>
+    <address>51956</address>
+  </writer>
+  <writer>
+    <code>1206340</code>
+    <name>Autor do livro 1206340</name>
+    <book>Titulo do livro 1206340</book>
+    <address>11899</address>
+  </writer>
+  <writer>
+    <code>3425459</code>
+    <name>Autor do livro 3425459</name>
+    <book>Titulo do livro 3425459</book>
+    <address>71987</address>
+  </writer>
+  <writer>
+    <code>2319926</code>
+    <name>Autor do livro 2319926</name>
+    <book>Titulo do livro 2319926</book>
+    <address>21984</address>
+  </writer>
+  <writer>
+    <code>3119063</code>
+    <name>Autor do livro 3119063</name>
+    <book>Titulo do livro 3119063</book>
+    <address>11991</address>
+  </writer>
+  <writer>
+    <code>3464792</code>
+    <name>Autor do livro 3464792</name>
+    <book>Titulo do livro 3464792</book>
+    <address>41962</address>
+  </writer>
+  <writer>
+    <code>1943121</code>
+    <name>Autor do livro 1943121</name>
+    <book>Titulo do livro 1943121</book>
+    <address>11936</address>
+  </writer>
+  <writer>
+    <code>1723379</code>
+    <name>Autor do livro 1723379</name>
+    <book>Titulo do livro 1723379</book>
+    <address>51953</address>
+  </writer>
+  <writer>
+    <code>3776586</code>
+    <name>Autor do livro 3776586</name>
+    <book>Titulo do livro 3776586</book>
+    <address>61919</address>
+  </writer>
+  <writer>
+    <code>1360836</code>
+    <name>Autor do livro 1360836</name>
+    <book>Titulo do livro 1360836</book>
+    <address>61935</address>
+  </writer>
+  <writer>
+    <code>2215067</code>
+    <name>Autor do livro 2215067</name>
+    <book>Titulo do livro 2215067</book>
+    <address>11958</address>
+  </writer>
+  <writer>
+    <code>1896902</code>
+    <name>Autor do livro 1896902</name>
+    <book>Titulo do livro 1896902</book>
+    <address>81969</address>
+  </writer>
+  <writer>
+    <code>2413493</code>
+    <name>Autor do livro 2413493</name>
+    <book>Titulo do livro 2413493</book>
+    <address>41976</address>
+  </writer>
+  <writer>
+    <code>1676635</code>
+    <name>Autor do livro 1676635</name>
+    <book>Titulo do livro 1676635</book>
+    <address>12000</address>
+  </writer>
+  <writer>
+    <code>2407914</code>
+    <name>Autor do livro 2407914</name>
+    <book>Titulo do livro 2407914</book>
+    <address>51911</address>
+  </writer>
+  <writer>
+    <code>2760039</code>
+    <name>Autor do livro 2760039</name>
+    <book>Titulo do livro 2760039</book>
+    <address>11896</address>
+  </writer>
+  <writer>
+    <code>2015568</code>
+    <name>Autor do livro 2015568</name>
+    <book>Titulo do livro 2015568</book>
+    <address>51960</address>
+  </writer>
+  <writer>
+    <code>1656396</code>
+    <name>Autor do livro 1656396</name>
+    <book>Titulo do livro 1656396</book>
+    <address>51960</address>
+  </writer>
+  <writer>
+    <code>3244120</code>
+    <name>Autor do livro 3244120</name>
+    <book>Titulo do livro 3244120</book>
+    <address>11960</address>
+  </writer>
+  <writer>
+    <code>3501295</code>
+    <name>Autor do livro 3501295</name>
+    <book>Titulo do livro 3501295</book>
+    <address>41958</address>
+  </writer>
+  <writer>
+    <code>2440604</code>
+    <name>Autor do livro 2440604</name>
+    <book>Titulo do livro 2440604</book>
+    <address>11910</address>
+  </writer>
+  <writer>
+    <code>1174580</code>
+    <name>Autor do livro 1174580</name>
+    <book>Titulo do livro 1174580</book>
+    <address>11955</address>
+  </writer>
+  <writer>
+    <code>1055247</code>
+    <name>Autor do livro 1055247</name>
+    <book>Titulo do livro 1055247</book>
+    <address>11925</address>
+  </writer>
+  <writer>
+    <code>2238825</code>
+    <name>Autor do livro 2238825</name>
+    <book>Titulo do livro 2238825</book>
+    <address>31937</address>
+  </writer>
+  <writer>
+    <code>3955224</code>
+    <name>Autor do livro 3955224</name>
+    <book>Titulo do livro 3955224</book>
+    <address>81927</address>
+  </writer>
+  <writer>
+    <code>3045612</code>
+    <name>Autor do livro 3045612</name>
+    <book>Titulo do livro 3045612</book>
+    <address>31990</address>
+  </writer>
+  <writer>
+    <code>2349951</code>
+    <name>Autor do livro 2349951</name>
+    <book>Titulo do livro 2349951</book>
+    <address>62007</address>
+  </writer>
+  <writer>
+    <code>1575779</code>
+    <name>Autor do livro 1575779</name>
+    <book>Titulo do livro 1575779</book>
+    <address>31936</address>
+  </writer>
+  <writer>
+    <code>3441540</code>
+    <name>Autor do livro 3441540</name>
+    <book>Titulo do livro 3441540</book>
+    <address>81933</address>
+  </writer>
+  <writer>
+    <code>3587448</code>
+    <name>Autor do livro 3587448</name>
+    <book>Titulo do livro 3587448</book>
+    <address>31902</address>
+  </writer>
+  <writer>
+    <code>2519219</code>
+    <name>Autor do livro 2519219</name>
+    <book>Titulo do livro 2519219</book>
+    <address>11904</address>
+  </writer>
+  <writer>
+    <code>1327836</code>
+    <name>Autor do livro 1327836</name>
+    <book>Titulo do livro 1327836</book>
+    <address>11921</address>
+  </writer>
+  <writer>
+    <code>1319837</code>
+    <name>Autor do livro 1319837</name>
+    <book>Titulo do livro 1319837</book>
+    <address>71983</address>
+  </writer>
+  <writer>
+    <code>2303298</code>
+    <name>Autor do livro 2303298</name>
+    <book>Titulo do livro 2303298</book>
+    <address>31944</address>
+  </writer>
+  <writer>
+    <code>1380859</code>
+    <name>Autor do livro 1380859</name>
+    <book>Titulo do livro 1380859</book>
+    <address>41925</address>
+  </writer>
+  <writer>
+    <code>2393100</code>
+    <name>Autor do livro 2393100</name>
+    <book>Titulo do livro 2393100</book>
+    <address>31985</address>
+  </writer>
+  <writer>
+    <code>2885978</code>
+    <name>Autor do livro 2885978</name>
+    <book>Titulo do livro 2885978</book>
+    <address>81943</address>
+  </writer>
+  <writer>
+    <code>2162347</code>
+    <name>Autor do livro 2162347</name>
+    <book>Titulo do livro 2162347</book>
+    <address>71913</address>
+  </writer>
+  <writer>
+    <code>3317976</code>
+    <name>Autor do livro 3317976</name>
+    <book>Titulo do livro 3317976</book>
+    <address>51923</address>
+  </writer>
+  <writer>
+    <code>1354079</code>
+    <name>Autor do livro 1354079</name>
+    <book>Titulo do livro 1354079</book>
+    <address>52005</address>
+  </writer>
+  <writer>
+    <code>2356234</code>
+    <name>Autor do livro 2356234</name>
+    <book>Titulo do livro 2356234</book>
+    <address>71978</address>
+  </writer>
+  <writer>
+    <code>2238530</code>
+    <name>Autor do livro 2238530</name>
+    <book>Titulo do livro 2238530</book>
+    <address>41964</address>
+  </writer>
+  <writer>
+    <code>1124885</code>
+    <name>Autor do livro 1124885</name>
+    <book>Titulo do livro 1124885</book>
+    <address>71908</address>
+  </writer>
+  <writer>
+    <code>1118784</code>
+    <name>Autor do livro 1118784</name>
+    <book>Titulo do livro 1118784</book>
+    <address>31982</address>
+  </writer>
+  <writer>
+    <code>2799892</code>
+    <name>Autor do livro 2799892</name>
+    <book>Titulo do livro 2799892</book>
+    <address>11974</address>
+  </writer>
+  <writer>
+    <code>3304480</code>
+    <name>Autor do livro 3304480</name>
+    <book>Titulo do livro 3304480</book>
+    <address>61999</address>
+  </writer>
+  <writer>
+    <code>2567094</code>
+    <name>Autor do livro 2567094</name>
+    <book>Titulo do livro 2567094</book>
+    <address>22004</address>
+  </writer>
+  <writer>
+    <code>2673479</code>
+    <name>Autor do livro 2673479</name>
+    <book>Titulo do livro 2673479</book>
+    <address>51912</address>
+  </writer>
+  <writer>
+    <code>3787490</code>
+    <name>Autor do livro 3787490</name>
+    <book>Titulo do livro 3787490</book>
+    <address>71924</address>
+  </writer>
+  <writer>
+    <code>2361014</code>
+    <name>Autor do livro 2361014</name>
+    <book>Titulo do livro 2361014</book>
+    <address>31934</address>
+  </writer>
+  <writer>
+    <code>2967733</code>
+    <name>Autor do livro 2967733</name>
+    <book>Titulo do livro 2967733</book>
+    <address>12012</address>
+  </writer>
+  <writer>
+    <code>3581837</code>
+    <name>Autor do livro 3581837</name>
+    <book>Titulo do livro 3581837</book>
+    <address>51923</address>
+  </writer>
+  <writer>
+    <code>1997553</code>
+    <name>Autor do livro 1997553</name>
+    <book>Titulo do livro 1997553</book>
+    <address>51945</address>
+  </writer>
+  <writer>
+    <code>3846900</code>
+    <name>Autor do livro 3846900</name>
+    <book>Titulo do livro 3846900</book>
+    <address>21997</address>
+  </writer>
+  <writer>
+    <code>3018580</code>
+    <name>Autor do livro 3018580</name>
+    <book>Titulo do livro 3018580</book>
+    <address>81934</address>
+  </writer>
+  <writer>
+    <code>3995710</code>
+    <name>Autor do livro 3995710</name>
+    <book>Titulo do livro 3995710</book>
+    <address>61981</address>
+  </writer>
+  <writer>
+    <code>2334447</code>
+    <name>Autor do livro 2334447</name>
+    <book>Titulo do livro 2334447</book>
+    <address>62006</address>
+  </writer>
+  <writer>
+    <code>3916312</code>
+    <name>Autor do livro 3916312</name>
+    <book>Titulo do livro 3916312</book>
+    <address>41986</address>
+  </writer>
+  <writer>
+    <code>1424856</code>
+    <name>Autor do livro 1424856</name>
+    <book>Titulo do livro 1424856</book>
+    <address>41949</address>
+  </writer>
+  <writer>
+    <code>1528671</code>
+    <name>Autor do livro 1528671</name>
+    <book>Titulo do livro 1528671</book>
+    <address>21974</address>
+  </writer>
+  <writer>
+    <code>1765876</code>
+    <name>Autor do livro 1765876</name>
+    <book>Titulo do livro 1765876</book>
+    <address>41961</address>
+  </writer>
+  <writer>
+    <code>3803397</code>
+    <name>Autor do livro 3803397</name>
+    <book>Titulo do livro 3803397</book>
+    <address>21969</address>
+  </writer>
+  <writer>
+    <code>3460828</code>
+    <name>Autor do livro 3460828</name>
+    <book>Titulo do livro 3460828</book>
+    <address>81968</address>
+  </writer>
+  <writer>
+    <code>1911000</code>
+    <name>Autor do livro 1911000</name>
+    <book>Titulo do livro 1911000</book>
+    <address>61939</address>
+  </writer>
+  <writer>
+    <code>2416687</code>
+    <name>Autor do livro 2416687</name>
+    <book>Titulo do livro 2416687</book>
+    <address>11895</address>
+  </writer>
+  <writer>
+    <code>3225346</code>
+    <name>Autor do livro 3225346</name>
+    <book>Titulo do livro 3225346</book>
+    <address>21968</address>
+  </writer>
+  <writer>
+    <code>3862654</code>
+    <name>Autor do livro 3862654</name>
+    <book>Titulo do livro 3862654</book>
+    <address>31942</address>
+  </writer>
+  <writer>
+    <code>3823412</code>
+    <name>Autor do livro 3823412</name>
+    <book>Titulo do livro 3823412</book>
+    <address>81947</address>
+  </writer>
+  <writer>
+    <code>1823363</code>
+    <name>Autor do livro 1823363</name>
+    <book>Titulo do livro 1823363</book>
+    <address>61914</address>
+  </writer>
+  <writer>
+    <code>3040281</code>
+    <name>Autor do livro 3040281</name>
+    <book>Titulo do livro 3040281</book>
+    <address>21959</address>
+  </writer>
+  <writer>
+    <code>3465299</code>
+    <name>Autor do livro 3465299</name>
+    <book>Titulo do livro 3465299</book>
+    <address>31990</address>
+  </writer>
+  <writer>
+    <code>2781017</code>
+    <name>Autor do livro 2781017</name>
+    <book>Titulo do livro 2781017</book>
+    <address>41957</address>
+  </writer>
+  <writer>
+    <code>2639732</code>
+    <name>Autor do livro 2639732</name>
+    <book>Titulo do livro 2639732</book>
+    <address>51895</address>
+  </writer>
+  <writer>
+    <code>1686589</code>
+    <name>Autor do livro 1686589</name>
+    <book>Titulo do livro 1686589</book>
+    <address>81936</address>
+  </writer>
+  <writer>
+    <code>2609534</code>
+    <name>Autor do livro 2609534</name>
+    <book>Titulo do livro 2609534</book>
+    <address>41892</address>
+  </writer>
+  <writer>
+    <code>3008394</code>
+    <name>Autor do livro 3008394</name>
+    <book>Titulo do livro 3008394</book>
+    <address>11890</address>
+  </writer>
+  <writer>
+    <code>2056453</code>
+    <name>Autor do livro 2056453</name>
+    <book>Titulo do livro 2056453</book>
+    <address>41940</address>
+  </writer>
+  <writer>
+    <code>2970174</code>
+    <name>Autor do livro 2970174</name>
+    <book>Titulo do livro 2970174</book>
+    <address>21902</address>
+  </writer>
+  <writer>
+    <code>3663733</code>
+    <name>Autor do livro 3663733</name>
+    <book>Titulo do livro 3663733</book>
+    <address>31990</address>
+  </writer>
+  <writer>
+    <code>3848111</code>
+    <name>Autor do livro 3848111</name>
+    <book>Titulo do livro 3848111</book>
+    <address>31920</address>
+  </writer>
+  <writer>
+    <code>2673562</code>
+    <name>Autor do livro 2673562</name>
+    <book>Titulo do livro 2673562</book>
+    <address>71941</address>
+  </writer>
+  <writer>
+    <code>1288161</code>
+    <name>Autor do livro 1288161</name>
+    <book>Titulo do livro 1288161</book>
+    <address>31890</address>
+  </writer>
+  <writer>
+    <code>3924717</code>
+    <name>Autor do livro 3924717</name>
+    <book>Titulo do livro 3924717</book>
+    <address>61940</address>
+  </writer>
+  <writer>
+    <code>2598326</code>
+    <name>Autor do livro 2598326</name>
+    <book>Titulo do livro 2598326</book>
+    <address>31893</address>
+  </writer>
+  <writer>
+    <code>1451531</code>
+    <name>Autor do livro 1451531</name>
+    <book>Titulo do livro 1451531</book>
+    <address>11894</address>
+  </writer>
+  <writer>
+    <code>2093060</code>
+    <name>Autor do livro 2093060</name>
+    <book>Titulo do livro 2093060</book>
+    <address>11963</address>
+  </writer>
+  <writer>
+    <code>3181857</code>
+    <name>Autor do livro 3181857</name>
+    <book>Titulo do livro 3181857</book>
+    <address>11936</address>
+  </writer>
+  <writer>
+    <code>2388934</code>
+    <name>Autor do livro 2388934</name>
+    <book>Titulo do livro 2388934</book>
+    <address>51964</address>
+  </writer>
+  <writer>
+    <code>3670459</code>
+    <name>Autor do livro 3670459</name>
+    <book>Titulo do livro 3670459</book>
+    <address>11956</address>
+  </writer>
+  <writer>
+    <code>2278094</code>
+    <name>Autor do livro 2278094</name>
+    <book>Titulo do livro 2278094</book>
+    <address>81984</address>
+  </writer>
+  <writer>
+    <code>2260223</code>
+    <name>Autor do livro 2260223</name>
+    <book>Titulo do livro 2260223</book>
+    <address>12002</address>
+  </writer>
+  <writer>
+    <code>1943209</code>
+    <name>Autor do livro 1943209</name>
+    <book>Titulo do livro 1943209</book>
+    <address>61977</address>
+  </writer>
+  <writer>
+    <code>3713823</code>
+    <name>Autor do livro 3713823</name>
+    <book>Titulo do livro 3713823</book>
+    <address>51898</address>
+  </writer>
+  <writer>
+    <code>3391355</code>
+    <name>Autor do livro 3391355</name>
+    <book>Titulo do livro 3391355</book>
+    <address>81962</address>
+  </writer>
+  <writer>
+    <code>2525352</code>
+    <name>Autor do livro 2525352</name>
+    <book>Titulo do livro 2525352</book>
+    <address>71926</address>
+  </writer>
+  <writer>
+    <code>1160078</code>
+    <name>Autor do livro 1160078</name>
+    <book>Titulo do livro 1160078</book>
+    <address>71996</address>
+  </writer>
+  <writer>
+    <code>2030003</code>
+    <name>Autor do livro 2030003</name>
+    <book>Titulo do livro 2030003</book>
+    <address>51927</address>
+  </writer>
+  <writer>
+    <code>1711218</code>
+    <name>Autor do livro 1711218</name>
+    <book>Titulo do livro 1711218</book>
+    <address>61938</address>
+  </writer>
+  <writer>
+    <code>3370817</code>
+    <name>Autor do livro 3370817</name>
+    <book>Titulo do livro 3370817</book>
+    <address>82008</address>
+  </writer>
+  <writer>
+    <code>1322310</code>
+    <name>Autor do livro 1322310</name>
+    <book>Titulo do livro 1322310</book>
+    <address>41998</address>
+  </writer>
+  <writer>
+    <code>3866348</code>
+    <name>Autor do livro 3866348</name>
+    <book>Titulo do livro 3866348</book>
+    <address>81999</address>
+  </writer>
+  <writer>
+    <code>3066953</code>
+    <name>Autor do livro 3066953</name>
+    <book>Titulo do livro 3066953</book>
+    <address>31917</address>
+  </writer>
+  <writer>
+    <code>2860665</code>
+    <name>Autor do livro 2860665</name>
+    <book>Titulo do livro 2860665</book>
+    <address>51960</address>
+  </writer>
+  <writer>
+    <code>2457279</code>
+    <name>Autor do livro 2457279</name>
+    <book>Titulo do livro 2457279</book>
+    <address>21992</address>
+  </writer>
+  <writer>
+    <code>3055563</code>
+    <name>Autor do livro 3055563</name>
+    <book>Titulo do livro 3055563</book>
+    <address>11990</address>
+  </writer>
+  <writer>
+    <code>3455234</code>
+    <name>Autor do livro 3455234</name>
+    <book>Titulo do livro 3455234</book>
+    <address>41961</address>
+  </writer>
+  <writer>
+    <code>3408101</code>
+    <name>Autor do livro 3408101</name>
+    <book>Titulo do livro 3408101</book>
+    <address>51993</address>
+  </writer>
+  <writer>
+    <code>3309951</code>
+    <name>Autor do livro 3309951</name>
+    <book>Titulo do livro 3309951</book>
+    <address>31936</address>
+  </writer>
+  <writer>
+    <code>3188455</code>
+    <name>Autor do livro 3188455</name>
+    <book>Titulo do livro 3188455</book>
+    <address>41943</address>
+  </writer>
+  <writer>
+    <code>3156254</code>
+    <name>Autor do livro 3156254</name>
+    <book>Titulo do livro 3156254</book>
+    <address>81954</address>
+  </writer>
+  <writer>
+    <code>3551550</code>
+    <name>Autor do livro 3551550</name>
+    <book>Titulo do livro 3551550</book>
+    <address>21900</address>
+  </writer>
+  <writer>
+    <code>1493662</code>
+    <name>Autor do livro 1493662</name>
+    <book>Titulo do livro 1493662</book>
+    <address>51897</address>
+  </writer>
+  <writer>
+    <code>2861700</code>
+    <name>Autor do livro 2861700</name>
+    <book>Titulo do livro 2861700</book>
+    <address>11996</address>
+  </writer>
+  <writer>
+    <code>1899313</code>
+    <name>Autor do livro 1899313</name>
+    <book>Titulo do livro 1899313</book>
+    <address>61991</address>
+  </writer>
+  <writer>
+    <code>1141073</code>
+    <name>Autor do livro 1141073</name>
+    <book>Titulo do livro 1141073</book>
+    <address>41910</address>
+  </writer>
+  <writer>
+    <code>2045805</code>
+    <name>Autor do livro 2045805</name>
+    <book>Titulo do livro 2045805</book>
+    <address>41962</address>
+  </writer>
+  <writer>
+    <code>3879832</code>
+    <name>Autor do livro 3879832</name>
+    <book>Titulo do livro 3879832</book>
+    <address>11929</address>
+  </writer>
+  <writer>
+    <code>3226648</code>
+    <name>Autor do livro 3226648</name>
+    <book>Titulo do livro 3226648</book>
+    <address>51945</address>
+  </writer>
+  <writer>
+    <code>3204718</code>
+    <name>Autor do livro 3204718</name>
+    <book>Titulo do livro 3204718</book>
+    <address>61912</address>
+  </writer>
+  <writer>
+    <code>3917294</code>
+    <name>Autor do livro 3917294</name>
+    <book>Titulo do livro 3917294</book>
+    <address>21897</address>
+  </writer>
+  <writer>
+    <code>3830640</code>
+    <name>Autor do livro 3830640</name>
+    <book>Titulo do livro 3830640</book>
+    <address>31961</address>
+  </writer>
+  <writer>
+    <code>2497529</code>
+    <name>Autor do livro 2497529</name>
+    <book>Titulo do livro 2497529</book>
+    <address>41997</address>
+  </writer>
+  <writer>
+    <code>2472736</code>
+    <name>Autor do livro 2472736</name>
+    <book>Titulo do livro 2472736</book>
+    <address>31990</address>
+  </writer>
+  <writer>
+    <code>3237379</code>
+    <name>Autor do livro 3237379</name>
+    <book>Titulo do livro 3237379</book>
+    <address>81976</address>
+  </writer>
+  <writer>
+    <code>2741449</code>
+    <name>Autor do livro 2741449</name>
+    <book>Titulo do livro 2741449</book>
+    <address>22004</address>
+  </writer>
+  <writer>
+    <code>1291671</code>
+    <name>Autor do livro 1291671</name>
+    <book>Titulo do livro 1291671</book>
+    <address>31987</address>
+  </writer>
+  <writer>
+    <code>2858147</code>
+    <name>Autor do livro 2858147</name>
+    <book>Titulo do livro 2858147</book>
+    <address>31999</address>
+  </writer>
+  <writer>
+    <code>2270283</code>
+    <name>Autor do livro 2270283</name>
+    <book>Titulo do livro 2270283</book>
+    <address>41925</address>
+  </writer>
+  <writer>
+    <code>3053748</code>
+    <name>Autor do livro 3053748</name>
+    <book>Titulo do livro 3053748</book>
+    <address>21990</address>
+  </writer>
+  <writer>
+    <code>1415843</code>
+    <name>Autor do livro 1415843</name>
+    <book>Titulo do livro 1415843</book>
+    <address>61906</address>
+  </writer>
+  <writer>
+    <code>3488708</code>
+    <name>Autor do livro 3488708</name>
+    <book>Titulo do livro 3488708</book>
+    <address>31915</address>
+  </writer>
+</writers>
