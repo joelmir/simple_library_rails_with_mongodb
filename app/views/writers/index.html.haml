@@ -1,5 +1,20 @@
 %h1 Listing writers
 
+= form_tag("writers", method: "get") do
+  = label_tag(:code, "Código:")
+  = text_field_tag(:code)
+  %br
+  = label_tag(:name, "Name:")
+  = text_field_tag(:name)
+  %br
+  = label_tag(:book, "Book:")
+  = text_field_tag(:book)
+  %br
+  = label_tag(:address, "Address:")
+  = text_field_tag(:address)
+  %br
+  = submit_tag("Search")
+
 %table
   %tr
     %th Code

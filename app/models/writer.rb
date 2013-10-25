@@ -3,7 +3,7 @@ class Writer
   field :code, type: String
   field :name, type: String
   field :book, type: String
-  field :address, type: Integer
+  field :address, type: String
   field :line, type:Integer
 
 end

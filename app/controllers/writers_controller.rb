@@ -4,7 +4,11 @@ class WritersController < ApplicationController
   # GET /writers
   # GET /writers.json
   def index
-    @writers = Writer.order_by(:line.asc).paginate(:page => params[:page], :limit => 15)
+    @writers = Writer.where(name: Regexp.new(params[:name] ? params[:name]+".*" : "") ,
+                            book: Regexp.new(params[:book] ? params[:book]+".*" : "") ,
+                            code: Regexp.new(params[:code] ? params[:code]+".*" : "") ,
+                            address: Regexp.new(params[:address] ? params[:address]+".*" : "") ,
+      ).order_by(:line.asc).paginate(:page => params[:page], :limit => 15)
   end
 
   def sync
